@@ -235,6 +235,7 @@
 
 ## JavaScript 
 
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [microsoft/TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) - A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
@@ -264,7 +265,6 @@
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
 - [DemocracyEarth/dapp](https://github.com/DemocracyEarth/dapp) - Censorship resistant democracies.
-- [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [interledgerjs/moneyd](https://github.com/interledgerjs/moneyd) - Connect your machine to the Interledger
 - [lxieyang/vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -475,6 +475,7 @@
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
+- [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -605,6 +606,7 @@
 
 ## TypeScript 
 
+- [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian

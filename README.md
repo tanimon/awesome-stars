@@ -639,7 +639,7 @@
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management tool for Philanthropist.
+- [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management webservice for Philanthropist.
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [airgap-it/airgap-wallet](https://github.com/airgap-it/airgap-wallet) - The AirGap Wallet is installed on an everyday smartphone. This app has only access to public information.

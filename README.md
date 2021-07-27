@@ -661,6 +661,7 @@
 - [loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons) - Lesson content for cryptozombies.io
 - [hello-nyxo/nyxo-app](https://github.com/hello-nyxo/nyxo-app) - The repository for Nyxo React Native app, a personal sleep tracker and sleep coach
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [kortina/vscode-markdown-notes](https://github.com/kortina/vscode-markdown-notes) - Install from: https://ark.dance/md-notes
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -730,7 +731,6 @@
 - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) - Ranger integration in vim and neovim
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim

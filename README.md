@@ -549,7 +549,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
 - [golemfactory/yagna](https://github.com/golemfactory/yagna) - An open platform and marketplace for distributed computations
-- [Kethku/neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.

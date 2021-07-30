@@ -12,7 +12,9 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -129,9 +131,17 @@
 - [MattFlower/organized](https://github.com/MattFlower/organized) - Outlining, scheduling, and todos inside of the Atom Editor
 - [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Agile project management platform. Built on top of Django and AngularJS
 
+## Dart 
+
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+
 ## Dockerfile 
 
 - [Paperist/docker-alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja) - Minimal TeX Live image for Japanese based on alpine
+
+## EJS 
+
+- [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
 
 ## Emacs Lisp 
 

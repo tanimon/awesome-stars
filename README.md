@@ -400,6 +400,7 @@
 
 ## Others 
 
+- [mercari/engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [mafredri/phoenix-typings](https://github.com/mafredri/phoenix-typings) - TypeScript typings for Phoenix (kasper/phoenix)
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs

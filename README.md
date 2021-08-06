@@ -246,6 +246,8 @@
 
 ## JavaScript 
 
+- [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
+- [anandundavia/express-api-structure](https://github.com/anandundavia/express-api-structure) - Structure for Express based API server
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
@@ -611,6 +613,7 @@
 
 ## Swift 
 
+- [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - SesameSDK は簡単かつパワフルかつ無料な、iOS/Androidアプリ用の Bluetooth/IoT(Internet of Things)ライブラリ です。公式 セサミアプリ もこの SesameSDK を用いて構築されており、この SesameSDK にて、あなたのアプリでもセサミアプリが有する全ての機能を持たせることが可能です。
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project

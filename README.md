@@ -12,6 +12,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Cython](#cython)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
@@ -28,7 +29,6 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-  - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -134,6 +134,10 @@
 
 - [MattFlower/organized](https://github.com/MattFlower/organized) - Outlining, scheduling, and todos inside of the Atom Editor
 - [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Agile project management platform. Built on top of Django and AngularJS
+
+## Cython 
+
+- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Dart 
 
@@ -251,6 +255,7 @@
 
 ## JavaScript 
 
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [tyrasd/togpx](https://github.com/tyrasd/togpx) - convert geojson to gpx
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
@@ -327,6 +332,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [KeithHenry/chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) - Promise wrapper for the Chrome extension API so that it can be used with async/await rather than callbacks
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
@@ -396,10 +402,6 @@
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
-## Makefile 
-
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -463,7 +465,7 @@
 - [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM)
+- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) documentations.
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [davidbgk/open-source-template](https://github.com/davidbgk/open-source-template) - A README template to encourage open-source contributions
@@ -493,7 +495,6 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -561,6 +562,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager

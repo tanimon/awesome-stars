@@ -145,7 +145,7 @@
 
 ## Dockerfile 
 
-- [Paperist/docker-alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja) - Minimal TeX Live image for Japanese based on alpine
+- [Paperist/alpine-texlive-ja](https://github.com/Paperist/alpine-texlive-ja) - Minimal TeX Live image for Japanese based on alpine
 
 ## EJS 
 

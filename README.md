@@ -116,7 +116,6 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [xaizek/zograscope](https://github.com/xaizek/zograscope) - Mainly a syntax-aware diff that also provides a number of additional tools.
-- [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
@@ -743,6 +742,7 @@
 ## V 
 
 - [v-community/v_by_example](https://github.com/v-community/v_by_example) - Learn V by Example
+- [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 

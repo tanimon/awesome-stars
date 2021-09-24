@@ -219,7 +219,6 @@
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [ngneat/variabless](https://github.com/ngneat/variabless) - JS & CSS - A Match Made in Heaven 💎
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
-- [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
 - [The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [jgraph/mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
@@ -232,6 +231,7 @@
 
 ## Haskell 
 
+- [input-output-hk/plutus](https://github.com/input-output-hk/plutus) - The Plutus language implementation and tools
 - [input-output-hk/cardano-node](https://github.com/input-output-hk/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages

@@ -289,7 +289,7 @@
 - [catnose99/CatKnows](https://github.com/catnose99/CatKnows) - Personal blog powered by Gatsby.js.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [ytanaka-/menthas](https://github.com/ytanaka-/menthas) - Menthas: Curated News Reader For Hackers
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021
 - [LedgerHQ/ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) - Ledger Live (Desktop)

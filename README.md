@@ -468,7 +468,7 @@
 - [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
-- [oam-dev/spec](https://github.com/oam-dev/spec) - The Open Application Model (OAM) documentations.
+- [oam-dev/spec](https://github.com/oam-dev/spec) - Learning Open Application Model (OAM).
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [davidbgk/open-source-template](https://github.com/davidbgk/open-source-template) - A README template to encourage open-source contributions

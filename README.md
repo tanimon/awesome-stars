@@ -38,7 +38,6 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
-  - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -537,10 +536,6 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [program-repair/RepairThemAll](https://github.com/program-repair/RepairThemAll) - Automatic Repair Framework that abstract repair tools and bug benchmarks
-
-## Reason 
-
-- [onivim/oni2-mit](https://github.com/onivim/oni2-mit) - MIT Licensed fork of Onivim 2 (containing the latest MIT code on master)
 
 ## Ruby 
 

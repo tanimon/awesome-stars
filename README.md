@@ -14,7 +14,6 @@
   - [CoffeeScript](#coffeescript)
   - [Cython](#cython)
   - [Dart](#dart)
-  - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
@@ -38,12 +37,14 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Reason](#reason)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Solidity](#solidity)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
   - [VBA](#vba)
@@ -63,10 +64,10 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## C# # 
 
+- [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - #1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representatives to get a better understanding of their collaboration
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
@@ -143,10 +144,6 @@
 ## Dart 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## Dockerfile 
-
-- [Paperist/alpine-texlive-ja](https://github.com/Paperist/alpine-texlive-ja) - Minimal TeX Live image for Japanese based on alpine
 
 ## EJS 
 
@@ -538,6 +535,10 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [program-repair/RepairThemAll](https://github.com/program-repair/RepairThemAll) - Automatic Repair Framework that abstract repair tools and bug benchmarks
 
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+
 ## Ruby 
 
 - [speric/kindle-highlights](https://github.com/speric/kindle-highlights) - Get your Kindle highlights.
@@ -637,6 +638,10 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app
 - [NMAC427/SwiftOCR](https://github.com/NMAC427/SwiftOCR) - Fast and simple OCR library written in Swift
+
+## TeX 
+
+- [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - Minimal TeX Live image for Japanese based on alpine
 
 ## TypeScript 
 

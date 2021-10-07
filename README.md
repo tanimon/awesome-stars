@@ -641,10 +641,12 @@
 
 ## TeX 
 
-- [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - Minimal TeX Live image for Japanese based on alpine
+- [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - Minimal TeX Live image for Japanese
 
 ## TypeScript 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.

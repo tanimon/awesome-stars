@@ -642,7 +642,7 @@
 
 ## TeX 
 
-- [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - Minimal TeX Live image for Japanese
+- [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - The minimal TeXLive Docker image for Japanese
 
 ## TypeScript 
 

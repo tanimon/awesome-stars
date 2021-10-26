@@ -282,7 +282,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [textlint-rule/textlint-rule-no-dead-link](https://github.com/textlint-rule/textlint-rule-no-dead-link) - textlint rule to check if all links are alive.
 - [wakatime/chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
-- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -490,7 +490,7 @@
 
 ## PowerShell 
 
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 
 ## Python 
 

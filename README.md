@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [kndt84/passport-cognito](https://github.com/kndt84/passport-cognito) - Passport strategy for AWS Cognito User Pools
 - [jaredhanson/passport-oauth2](https://github.com/jaredhanson/passport-oauth2) - OAuth 2.0 authentication strategy for Passport and Node.js.

@@ -159,6 +159,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -179,7 +180,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
-- [drone/drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder

@@ -349,7 +349,6 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [KeithHenry/chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) - Promise wrapper for the Chrome extension API so that it can be used with async/await rather than callbacks
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg
@@ -752,6 +751,7 @@
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [vivliostyle/vivliostyle.js](https://github.com/vivliostyle/vivliostyle.js) - 📖 The power of CSS typesetting, right at your fingertips.
 - [oguna/jsmigemo](https://github.com/oguna/jsmigemo) - migemo on javascript
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [plus1tv/react-anime](https://github.com/plus1tv/react-anime) - ✨ (ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅

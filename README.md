@@ -58,7 +58,6 @@
 
 ## C 
 
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [iost-official/go-iost](https://github.com/iost-official/go-iost) - Official Go implementation of the IOST blockchain
@@ -163,6 +162,7 @@
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [STNS/STNS](https://github.com/STNS/STNS) - Simple Toml Name Service
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [matsuyoshi30/germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code

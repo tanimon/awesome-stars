@@ -590,7 +590,7 @@
 - [opendp/opendp](https://github.com/opendp/opendp) - The core library of differential privacy algorithms powering the OpenDP Project.
 - [justnat3/tbsh](https://github.com/justnat3/tbsh) - Typed-Bash-Shell & Programming Language
 - [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
-- [stafiprotocol/stafi-node](https://github.com/stafiprotocol/stafi-node) - Stafi Node Implementation
+- [stafiprotocol/stafi-node](https://github.com/stafiprotocol/stafi-node) - StaFi Node Implementation
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [phaazon/toodoux](https://github.com/phaazon/toodoux) - A task manager based on taskwarrior
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown

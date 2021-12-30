@@ -314,6 +314,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [DemocracyEarth/dapp](https://github.com/DemocracyEarth/dapp) - Censorship resistant democracies.
 - [interledgerjs/moneyd](https://github.com/interledgerjs/moneyd) - Connect your machine to the Interledger
 - [lxieyang/vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
@@ -717,7 +718,6 @@
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management webservice for Philanthropist.
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [airgap-it/airgap-wallet](https://github.com/airgap-it/airgap-wallet) - The AirGap Wallet is installed on an everyday smartphone. This app has only access to public information.
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [interledgerjs/interledgerjs](https://github.com/interledgerjs/interledgerjs) - Interledger.js Monorepo

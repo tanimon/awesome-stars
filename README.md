@@ -481,7 +481,6 @@
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [fork-dev/Tracker](https://github.com/fork-dev/Tracker) - Bug and issue tracker for Fork for Mac
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-- [vercel/awesome-zeit](https://github.com/vercel/awesome-zeit) - The best resources related to ZEIT
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
 - [icons8/lunacy-docs](https://github.com/icons8/lunacy-docs) - Documentation for Lunacy, Graphic Design Software with built-in assets

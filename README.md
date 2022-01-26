@@ -812,7 +812,7 @@
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
-- [tpope/tpope](https://github.com/tpope/tpope) - tpope's dotfiles. DON'T USE unless you're tpope
+- [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.

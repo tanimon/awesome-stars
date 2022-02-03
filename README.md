@@ -465,7 +465,7 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [tthtlc/awesome-source-analysis](https://github.com/tthtlc/awesome-source-analysis) - Source code understanding via Machine Learning techniques
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
 - [zenn-dev/zenn-community](https://github.com/zenn-dev/zenn-community) - zenn.dev roadmap
 - [Emurgo/Emurgo-Research](https://github.com/Emurgo/Emurgo-Research) - Emurgo research made publicly available for the betterment of the open source and blockchain ecosystems.
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
@@ -608,7 +608,7 @@
 - [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [Emurgo/cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - This is a library, written in Rust, for serialization & deserialization of data structures used in Cardano's Haskell implementation of Shelley along with useful utility functions.
+- [Emurgo/cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - This is a library, written in Rust, for serialization & deserialization of data structures used in Cardano's Haskell implementation of Alonzo along with useful utility functions.
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
 - [LayerXcom/anonify](https://github.com/LayerXcom/anonify) - A Module for Privacy-preserving State Transitions with Verifiability
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust

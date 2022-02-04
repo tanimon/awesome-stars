@@ -310,7 +310,6 @@
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
 - [catnose99/CatKnows](https://github.com/catnose99/CatKnows) - Personal blog powered by Gatsby.js.
-- [Renovamen/renovamen.github.io](https://github.com/Renovamen/renovamen.github.io) - My blog 🧐, powered by VuePress 2, themed by Gungnir.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -621,6 +620,7 @@
 
 ## SCSS 
 
+- [Renovamen/renovamen.github.io](https://github.com/Renovamen/renovamen.github.io) - My blog 🧐, powered by VuePress 2, themed by Gungnir.
 - [stackbit-themes/exto-unibit](https://github.com/stackbit-themes/exto-unibit) - Exto is a portfolio theme with a blog for Stackbit
 - [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo

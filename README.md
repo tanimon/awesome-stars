@@ -560,7 +560,7 @@
 - [oreilly-japan/deep-learning-from-scratch-3](https://github.com/oreilly-japan/deep-learning-from-scratch-3) - 『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.

@@ -471,7 +471,7 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [tthtlc/awesome-source-analysis](https://github.com/tthtlc/awesome-source-analysis) - Source code understanding via Machine Learning techniques
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
 - [zenn-dev/zenn-community](https://github.com/zenn-dev/zenn-community) - zenn.dev roadmap
 - [Emurgo/Emurgo-Research](https://github.com/Emurgo/Emurgo-Research) - Emurgo research made publicly available for the betterment of the open source and blockchain ecosystems.
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki

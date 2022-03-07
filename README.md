@@ -14,7 +14,6 @@
   - [CoffeeScript](#coffeescript)
   - [Cython](#cython)
   - [Dart](#dart)
-  - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -127,6 +126,7 @@
 ## CSS 
 
 - [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
+- [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
@@ -149,10 +149,6 @@
 ## Dart 
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## EJS 
-
-- [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
 
 ## Emacs Lisp 
 

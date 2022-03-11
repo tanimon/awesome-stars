@@ -14,6 +14,7 @@
   - [CoffeeScript](#coffeescript)
   - [Cython](#cython)
   - [Dart](#dart)
+  - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -126,7 +127,6 @@
 ## CSS 
 
 - [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
-- [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
@@ -150,6 +150,10 @@
 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## EJS 
+
+- [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
+
 ## Emacs Lisp 
 
 - [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題と絵文字の横幅問題の修正ロケール
@@ -161,7 +165,7 @@
 
 ## Go 
 
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - Package manager for CLI
+- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [STNS/STNS](https://github.com/STNS/STNS) - Simple Toml Name Service
@@ -266,7 +270,7 @@
 
 ## JavaScript 
 
-- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - File Nesting Config for VS Code
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [line/line-liff-v2-starter](https://github.com/line/line-liff-v2-starter) - This is a small web application that demonstrates the basic functionality of the LINE Front-end Framework (LIFF).
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

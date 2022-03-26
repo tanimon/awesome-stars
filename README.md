@@ -584,7 +584,7 @@
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [flatplanet/railsfriends](https://github.com/flatplanet/railsfriends) - 
-- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - Railsガイドの公開リポジトリです。
+- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - Ruby on Railsガイドの公開リポジトリです。
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [bountysource/core](https://github.com/bountysource/core) - Bountysource is the funding platform for open-source software.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱

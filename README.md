@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [amazon-archives/serverless-app-examples](https://github.com/amazon-archives/serverless-app-examples) - 
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [line/line-liff-v2-starter](https://github.com/line/line-liff-v2-starter) - This is a small web application that demonstrates the basic functionality of the LINE Front-end Framework (LIFF).
@@ -455,6 +456,7 @@
 
 ## Others 
 
+- [YoshiiRyo1/document-templates-for-aws](https://github.com/YoshiiRyo1/document-templates-for-aws) - 
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [ovrclk/docs](https://github.com/ovrclk/docs) - Official Documentation
 - [mercari/engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English

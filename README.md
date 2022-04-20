@@ -274,6 +274,7 @@
 
 ## JavaScript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [amazon-archives/serverless-app-examples](https://github.com/amazon-archives/serverless-app-examples) - 
@@ -561,7 +562,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [bergercookie/taskwarrior-syncall](https://github.com/bergercookie/taskwarrior-syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and GoogleKeep. Formerly taskw_gcal_sync
+- [bergercookie/taskwarrior-syncall](https://github.com/bergercookie/taskwarrior-syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and Google Keep. Formerly taskw_gcal_sync
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [tools-life/taskwiki](https://github.com/tools-life/taskwiki) - Proper project management with Taskwarrior in vim.
 - [vit-project/vit](https://github.com/vit-project/vit) - VIT is a lightweight, fast, curses-based front end to Taskwarrior
@@ -698,6 +699,9 @@
 
 ## TypeScript 
 
+- [hadzimme/monorepo-sandbox](https://github.com/hadzimme/monorepo-sandbox) - 
+- [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [vipzhicheng/logseq-plugin-vim-shortcuts](https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts) - Add part of VIM key bindings experience to Logseq
@@ -767,7 +771,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [tgrosinger/slated-obsidian](https://github.com/tgrosinger/slated-obsidian) - Task management in Obsidian.md
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. https://standardnotes.com
+- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management webservice for Philanthropist.
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline

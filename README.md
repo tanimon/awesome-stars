@@ -699,6 +699,7 @@
 
 ## TypeScript 
 
+- [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [hadzimme/monorepo-sandbox](https://github.com/hadzimme/monorepo-sandbox) - 
 - [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows

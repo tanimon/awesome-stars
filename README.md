@@ -70,9 +70,9 @@
 
 ## C# # 
 
-- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
+- [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Cor
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
-- [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - #1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representatives to get a better understanding of their collaboration
+- [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - #1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representative
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
@@ -94,7 +94,7 @@
 - [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 - [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
-- [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools.
+- [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [eksime/VDesk](https://github.com/eksime/VDesk) - Launch programs on new virtual desktops.
@@ -183,7 +183,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-- [0chain/0chain](https://github.com/0chain/0chain) - 0Chain is a decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade applications.
+- [0chain/0chain](https://github.com/0chain/0chain) - 0Chain is a decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -257,9 +257,9 @@
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) - 
-- [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+- [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 - [kusumotolab/JTDog](https://github.com/kusumotolab/JTDog) - 
-- [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
+- [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
 - [assertj/assertj-db](https://github.com/assertj/assertj-db) - Assertions for database
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [mifmif/Generex](https://github.com/mifmif/Generex) - A Java library for generating String from a regular expression.
@@ -290,7 +290,7 @@
 - [kndt84/passport-cognito](https://github.com/kndt84/passport-cognito) - Passport strategy for AWS Cognito User Pools
 - [jaredhanson/passport-oauth2](https://github.com/jaredhanson/passport-oauth2) - OAuth 2.0 authentication strategy for Passport and Node.js.
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
-- [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as its database and Amazon Cognito for user management. All static content is hosted using AWS Amplify Console.
+- [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
@@ -335,7 +335,7 @@
 - [OpenFuturePlatform/open-api](https://github.com/OpenFuturePlatform/open-api) - 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
-- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
+- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [DemocracyEarth/wallet](https://github.com/DemocracyEarth/wallet) - Censorship resistant democracies.
 - [interledgerjs/moneyd](https://github.com/interledgerjs/moneyd) - Connect your machine to the Interledger
@@ -345,7 +345,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [jes/hardbin](https://github.com/jes/hardbin) - Encrypted pastebin using IPFS
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [Emurgo/yoroi-frontend](https://github.com/Emurgo/yoroi-frontend) - Yoroi Wallet - Cardano ADA Wallet - Your gateway to the financial world (extension frontend)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -353,7 +353,7 @@
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [GoodDollar/GoodDAPP](https://github.com/GoodDollar/GoodDAPP) - GoodDollar.org Wallet is the simplest access point to Claim your daily G$. It Is based on web3 and React native web.
-- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take more than 100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -413,7 +413,7 @@
 
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [JuliaPy/PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language
-- [JuliaDiff/ChainRulesCore.jl](https://github.com/JuliaDiff/ChainRulesCore.jl) - AD-backend agnostic system defining custom forward and reverse mode rules. This is the light weight core to allow you to define rules for your functions in your packages, without depending on any particular AD system.
+- [JuliaDiff/ChainRulesCore.jl](https://github.com/JuliaDiff/ChainRulesCore.jl) - AD-backend agnostic system defining custom forward and reverse mode rules. This is the light weight core to allow you to define rules for your functions in your packages, without depending on any part
 - [JuliaDiff/ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) - Forward Mode Automatic Differentiation for Julia
 
 ## Jupyter Notebook 
@@ -423,7 +423,7 @@
 - [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors
 - [sonoisa/qiita-title-generation](https://github.com/sonoisa/qiita-title-generation) - Qiitaの記事本文を与えるとタイトルを自動生成してくれる深層学習モデルの推論処理
 - [opendp/opendp](https://github.com/opendp/opendp) - The core library of differential privacy algorithms powering the OpenDP Project.
-- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
+- [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -559,7 +559,7 @@
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [bergercookie/taskwarrior-syncall](https://github.com/bergercookie/taskwarrior-syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and Google Keep. Formerly taskw_gcal_sync
@@ -599,7 +599,7 @@
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones
-- [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom.
+- [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram) - :left_right_arrow: Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, U
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [onk/hellshake](https://github.com/onk/hellshake) - clone of slideshare.net
@@ -699,6 +699,8 @@
 
 ## TypeScript 
 
+- [graphql-rules/graphql-rules](https://github.com/graphql-rules/graphql-rules) - GraphQL Rules
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [cm-tanaka-keisuke/developersio-cdk](https://github.com/cm-tanaka-keisuke/developersio-cdk) - 
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [hadzimme/monorepo-sandbox](https://github.com/hadzimme/monorepo-sandbox) - 
@@ -728,7 +730,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [nestjs/swagger](https://github.com/nestjs/swagger) - OpenAPI (Swagger) module for Nest framework (node.js) :earth_americas:
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [rynop/abp-sam-nestjs](https://github.com/rynop/abp-sam-nestjs) - aws-blueprint REST API example using AWS SAM and NestJS

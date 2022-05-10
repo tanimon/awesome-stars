@@ -293,7 +293,6 @@
 - [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -426,6 +425,7 @@
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [shimitaku/MachineLearning-Book](https://github.com/shimitaku/MachineLearning-Book) - 書籍 AIエンジニアを目指す人のための機械学習入門（清水琢也・小川雄太郎、技術評論社、20/04/13）  のサポートリポジトリ
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
@@ -461,6 +461,7 @@
 
 ## Others 
 
+- [Shopify/graphql-design-tutorial](https://github.com/Shopify/graphql-design-tutorial) - 
 - [YoshiiRyo1/document-templates-for-aws](https://github.com/YoshiiRyo1/document-templates-for-aws) - 
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [ovrclk/docs](https://github.com/ovrclk/docs) - Official Documentation
@@ -559,7 +560,6 @@
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [bergercookie/taskwarrior-syncall](https://github.com/bergercookie/taskwarrior-syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and Google Keep. Formerly taskw_gcal_sync
@@ -607,6 +607,7 @@
 
 ## Rust 
 
+- [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -699,6 +700,7 @@
 
 ## TypeScript 
 
+- [unboundedsystems/adapt](https://github.com/unboundedsystems/adapt) - ReactJS for your infrastructure. Create and deploy full-stack apps to any infrastructure using the power of React.
 - [graphql-rules/graphql-rules](https://github.com/graphql-rules/graphql-rules) - GraphQL Rules
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [cm-tanaka-keisuke/developersio-cdk](https://github.com/cm-tanaka-keisuke/developersio-cdk) - 
@@ -735,6 +737,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [rynop/abp-sam-nestjs](https://github.com/rynop/abp-sam-nestjs) - aws-blueprint REST API example using AWS SAM and NestJS
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian

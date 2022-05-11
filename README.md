@@ -425,7 +425,6 @@
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [shimitaku/MachineLearning-Book](https://github.com/shimitaku/MachineLearning-Book) - 書籍 AIエンジニアを目指す人のための機械学習入門（清水琢也・小川雄太郎、技術評論社、20/04/13）  のサポートリポジトリ
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
@@ -480,7 +479,7 @@
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) - Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕
 - [tthtlc/awesome-source-analysis](https://github.com/tthtlc/awesome-source-analysis) - Source code understanding via Machine Learning techniques
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs
 - [zenn-dev/zenn-community](https://github.com/zenn-dev/zenn-community) - zenn.dev roadmap
 - [Emurgo/Emurgo-Research](https://github.com/Emurgo/Emurgo-Research) - Emurgo research made publicly available for the betterment of the open source and blockchain ecosystems.
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
@@ -560,6 +559,7 @@
 - [golemfactory/clay](https://github.com/golemfactory/clay) - Golem is creating a global market for computing power.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [bergercookie/taskwarrior-syncall](https://github.com/bergercookie/taskwarrior-syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and Google Keep. Formerly taskw_gcal_sync

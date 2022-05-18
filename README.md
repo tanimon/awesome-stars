@@ -632,7 +632,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Emurgo/cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - This is a library, written in Rust, for serialization & deserialization of data structures used in Cardano's Haskell implementation of Alonzo along with useful utility functions.
 - [kdheepak/taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) - `taskwarrior-tui`: A terminal user interface for taskwarrior
-- [LayerXcom/anonify](https://github.com/LayerXcom/anonify) - A Module for Privacy-preserving State Transitions with Verifiability
+- [LayerXcom/confidential-computing-modules](https://github.com/LayerXcom/confidential-computing-modules) - A Module for Privacy-preserving State Transitions with Verifiability
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
 - [golemfactory/yagna](https://github.com/golemfactory/yagna) - An open platform and marketplace for distributed computations

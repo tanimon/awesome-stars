@@ -228,6 +228,7 @@
 
 ## HTML 
 
+- [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -277,6 +278,9 @@
 
 ## JavaScript 
 
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [MoonHighway/learning-graphql](https://github.com/MoonHighway/learning-graphql) - The code samples for Learning GraphQL by Eve Porcello and Alex Banks, published by O'Reilly Media
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [hasura/3factor-example](https://github.com/hasura/3factor-example) - Canonical example of building a 3factor app : a food ordering application
@@ -702,6 +706,7 @@
 
 ## TypeScript 
 
+- [intercept6/bottom-up-ddd-ts-sample](https://github.com/intercept6/bottom-up-ddd-ts-sample) - [WIP]ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本をTypeScript、AWSサーバーレスに置き換えてサンプル実装した物
 - [santiq/bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs) - Implementation of a bulletproof node.js API 🛡️
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [unboundedsystems/adapt](https://github.com/unboundedsystems/adapt) - ReactJS for your infrastructure. Create and deploy full-stack apps to any infrastructure using the power of React.

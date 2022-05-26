@@ -15,6 +15,7 @@
 - [Cython](#cython)
 - [Dart](#dart)
 - [EJS](#ejs)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Go](#go)
@@ -156,6 +157,10 @@
 
 - [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
 
+## Elm 
+
+- [arowM/elm-form-decoder](https://github.com/arowM/elm-form-decoder) - Scalable way to decode user inputs into neat structure.
+
 ## Emacs Lisp 
 
 - [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題と絵文字の横幅問題の修正ロケール
@@ -278,6 +283,7 @@
 
 ## JavaScript 
 
+- [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -534,6 +540,7 @@
 
 ## Python 
 
+- [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [Juriy/swapi](https://github.com/Juriy/swapi) - SWAPI - Star Wars API service
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [Rydgel/Fake-images-please](https://github.com/Rydgel/Fake-images-please) - Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free.

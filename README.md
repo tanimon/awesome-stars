@@ -820,7 +820,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [tgrosinger/slated-obsidian](https://github.com/tgrosinger/slated-obsidian) - Task management in Obsidian.md
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [standardnotes/web](https://github.com/standardnotes/web) - A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com
+- [standardnotes/web](https://github.com/standardnotes/web) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management webservice for Philanthropist.
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline
@@ -836,7 +836,7 @@
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
-- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Gnosis Safe allows secure management of blockchain assets.
 - [input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql) - GraphQL API for Cardano

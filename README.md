@@ -724,6 +724,7 @@
 
 ## TypeScript 
 
+- [egoist/esbuild-register](https://github.com/egoist/esbuild-register) - Transpile JSX, TypeScript and esnext features on the fly with esbuild
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

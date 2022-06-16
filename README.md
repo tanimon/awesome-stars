@@ -174,6 +174,7 @@
 
 ## Go 
 
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
@@ -265,6 +266,7 @@
 
 ## Java 
 
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
@@ -287,6 +289,7 @@
 
 ## JavaScript 
 
+- [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, buffer, or array
 - [sindresorhus/decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow
@@ -551,6 +554,7 @@
 
 ## Python 
 
+- [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [Juriy/swapi](https://github.com/Juriy/swapi) - SWAPI - Star Wars API service
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -630,6 +634,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -724,6 +729,14 @@
 
 ## TypeScript 
 
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [egoist/esbuild-register](https://github.com/egoist/esbuild-register) - Transpile JSX, TypeScript and esnext features on the fly with esbuild
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
@@ -943,6 +956,7 @@
 
 ## Vue 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 

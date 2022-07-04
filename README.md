@@ -740,6 +740,7 @@
 
 ## TypeScript 
 
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!

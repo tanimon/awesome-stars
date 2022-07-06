@@ -741,6 +741,8 @@
 
 ## TypeScript 
 
+- [zenn-dev/zenn-editor](https://github.com/zenn-dev/zenn-editor) - Convert markdown to html in Zenn format
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code

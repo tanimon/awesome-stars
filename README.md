@@ -175,6 +175,7 @@
 
 ## Go 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
@@ -203,7 +204,7 @@
 - [0xProject/0x-mesh](https://github.com/0xProject/0x-mesh) - A peer-to-peer network for sharing 0x orders
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
-- [ipfs/go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.

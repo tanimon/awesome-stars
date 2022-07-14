@@ -491,6 +491,7 @@
 
 ## Others 
 
+- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [little-hands/ddd-q-and-a](https://github.com/little-hands/ddd-q-and-a) - DDD質問箱 回答記録
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [okohs/Curriculum-Vitae-template](https://github.com/okohs/Curriculum-Vitae-template) - This is template of curriculum vitae. Please use this template when need your curriculum vitae.

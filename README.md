@@ -479,7 +479,6 @@
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
-- [input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql) - GraphQL API for Cardano
 
 ## OCaml 
 
@@ -684,7 +683,6 @@
 
 ## SCSS 
 
-- [stackbit-themes/exto-unibit](https://github.com/stackbit-themes/exto-unibit) - Exto is a portfolio theme with a blog for Stackbit
 - [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
 
@@ -881,6 +879,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Gnosis Safe allows secure management of blockchain assets.
+- [input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql) - GraphQL API for Cardano
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools
 - [maticnetwork/matic.js](https://github.com/maticnetwork/matic.js) - Javascript developer library to interact with Matic Network
 - [loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons) - Lesson content for cryptozombies.io

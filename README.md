@@ -798,7 +798,6 @@
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-- [wagumi/wagumi](https://github.com/wagumi/wagumi) - 
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 - [classmethod/niseline](https://github.com/classmethod/niseline) - NiseLine is inspired by LocalStack. Goal of this tool is to create a mock service for LINE.

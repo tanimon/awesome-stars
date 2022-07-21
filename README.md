@@ -743,6 +743,8 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [zenn-dev/zenn-editor](https://github.com/zenn-dev/zenn-editor) - Convert markdown to html in Zenn format
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.

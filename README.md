@@ -270,6 +270,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
@@ -622,6 +623,7 @@
 
 ## Ruby 
 
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [speric/kindle-highlights](https://github.com/speric/kindle-highlights) - Get your Kindle highlights.
 - [ruby/typeprof](https://github.com/ruby/typeprof) - An experimental type-level Ruby interpreter for testing and understanding Ruby code
@@ -745,6 +747,7 @@
 
 ## TypeScript 
 
+- [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具

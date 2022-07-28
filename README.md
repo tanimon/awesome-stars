@@ -282,7 +282,7 @@
 - [assertj/assertj-db](https://github.com/assertj/assertj-db) - Assertions for database
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [mifmif/Generex](https://github.com/mifmif/Generex) - A Java library for generating String from a regular expression.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 16 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [selenide/selenide](https://github.com/selenide/selenide) - Concise UI Tests with Java!
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [vrapper/vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
@@ -294,6 +294,7 @@
 
 ## JavaScript 
 
+- [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode) - Barcode generation library written in JavaScript that works in both the browser and on Node.js

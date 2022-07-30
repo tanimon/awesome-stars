@@ -113,6 +113,8 @@
 
 ## C++ 
 
+- [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
+- [marcominetti/node-memwatch](https://github.com/marcominetti/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios

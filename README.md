@@ -240,7 +240,7 @@
 
 ## Groovy 
 
-- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
+- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for Software Architecture Documentation
 
 ## HTML 
 
@@ -859,7 +859,7 @@
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
+- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [seek-oss/vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code

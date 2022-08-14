@@ -244,6 +244,7 @@
 
 ## HTML 
 
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -650,6 +651,7 @@
 
 ## Rust 
 
+- [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
@@ -696,6 +698,7 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) - 🏷️ GitHub Action to output a semver update level from a pull request release label
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -752,6 +755,10 @@
 
 ## TypeScript 
 
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [uhyo/blog.uhy.ooo](https://github.com/uhyo/blog.uhy.ooo) - blog.uhy.ooo
+- [uhyo/eslint-plugin-import-access](https://github.com/uhyo/eslint-plugin-import-access) - 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier

@@ -51,7 +51,7 @@
 - [V](#v)
 - [VBA](#vba)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -835,7 +835,7 @@
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [ozntel/oz-image-in-editor-obsidian](https://github.com/ozntel/oz-image-in-editor-obsidian) - This Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.
 - [getmatterapp/obsidian-matter](https://github.com/getmatterapp/obsidian-matter) - The Matter Obsidian plugin
-- [airgap-it/airgap-vault](https://github.com/airgap-it/airgap-vault) - The AirGap Vault is installed on a dedicated or old smartphone that has no connection to any network, thus it is air gapped. This app handles the private key.
+- [airgap-it/airgap-vault](https://github.com/airgap-it/airgap-vault) - The AirGap Vault is installed on a spare smartphone that has no connection to any network, thus it is air gapped. This app handles the private key.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
@@ -898,7 +898,7 @@
 - [bloxapp/blox-live](https://github.com/bloxapp/blox-live) - 
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [manyuanrong/sql-builder](https://github.com/manyuanrong/sql-builder) - SQL query builder for Deno
-- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
@@ -966,7 +966,7 @@
 
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 
-## Vim script 
+## Vim Script 
 
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."

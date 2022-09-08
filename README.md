@@ -636,6 +636,7 @@
 
 ## Ruby 
 
+- [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [speric/kindle-highlights](https://github.com/speric/kindle-highlights) - Get your Kindle highlights.
@@ -763,6 +764,7 @@
 
 ## TypeScript 
 
+- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [yytypescript/book](https://github.com/yytypescript/book) - TypeScriptの入門書です。
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.x specification

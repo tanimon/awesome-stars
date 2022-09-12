@@ -472,7 +472,7 @@
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [shimitaku/MachineLearning-Book](https://github.com/shimitaku/MachineLearning-Book) - 書籍 AIエンジニアを目指す人のための機械学習入門（清水琢也・小川雄太郎、技術評論社、20/04/13）  のサポートリポジトリ
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
 - [genkuroki/Calculus](https://github.com/genkuroki/Calculus) - Elementary Calculus
 
 ## Kotlin 
@@ -764,6 +764,7 @@
 
 ## TypeScript 
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [yytypescript/book](https://github.com/yytypescript/book) - TypeScriptの入門書です。

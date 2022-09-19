@@ -541,7 +541,6 @@
 - [remnoteio/remnote-issues](https://github.com/remnoteio/remnote-issues) - The official public issue tracker for RemNote.io
 - [matsuu/vagrant-isucon](https://github.com/matsuu/vagrant-isucon) - ISUCON過去問を構築するためのVagrantfile集
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-- [vlang/vbrowser](https://github.com/vlang/vbrowser) - Upcoming browser written from scratch in V UI
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [Keypirinha/Keypirinha](https://github.com/Keypirinha/Keypirinha) - A fast keystroke launcher for Windows
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -952,7 +951,7 @@
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
@@ -967,6 +966,7 @@
 ## V 
 
 - [v-community/v_by_example](https://github.com/v-community/v_by_example) - Learn V by Example
+- [vlang/vbrowser](https://github.com/vlang/vbrowser) - Upcoming browser written from scratch in V UI
 - [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io

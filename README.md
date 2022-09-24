@@ -899,7 +899,7 @@
 - [reg-viz/reg-suit](https://github.com/reg-viz/reg-suit) - :recycle: Visual Regression Testing tool
 - [tgrosinger/slated-obsidian](https://github.com/tgrosinger/slated-obsidian) - Task management in Obsidian.md
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
-- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit forum.standardnotes.org or email help@standardnotes.com
+- [standardnotes/app](https://github.com/standardnotes/app) - An end-to-end encrypted notes app for digitalists and professionals. https://standardnotes.com For issues, visit https://forum.standardnotes.org or email help@standardnotes.com
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [azu/philan.net](https://github.com/azu/philan.net) - Public Donation Management webservice for Philanthropist.
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline

@@ -500,7 +500,7 @@
 ## OCaml 
 
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
-- [ocamllabs/ocaml-ctypes](https://github.com/ocamllabs/ocaml-ctypes) - Library for binding to C libraries using pure OCaml
+- [yallop/ocaml-ctypes](https://github.com/yallop/ocaml-ctypes) - Library for binding to C libraries using pure OCaml
 
 ## Objective-C 
 

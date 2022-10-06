@@ -297,6 +297,7 @@
 
 ## JavaScript 
 
+- [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
@@ -588,7 +589,7 @@
 - [aws-samples/aws-aurora-serverless-data-api-sam](https://github.com/aws-samples/aws-aurora-serverless-data-api-sam) - Using Amazon Aurora Serverless (MySQL) and the Data API to build a Serverless Application on AWS
 - [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
@@ -766,6 +767,7 @@
 
 ## TypeScript 
 
+- [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs

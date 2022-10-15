@@ -767,6 +767,7 @@
 
 ## TypeScript 
 
+- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Unleash is the open source feature toggle service.
 - [scaffdog/scaffdog](https://github.com/scaffdog/scaffdog) - :dog: scaffdog is Markdown driven scaffolding tool.

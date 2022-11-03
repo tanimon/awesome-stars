@@ -298,6 +298,7 @@
 
 ## JavaScript 
 
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
@@ -479,7 +480,7 @@
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python) - The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [shimitaku/MachineLearning-Book](https://github.com/shimitaku/MachineLearning-Book) - 書籍 AIエンジニアを目指す人のための機械学習入門（清水琢也・小川雄太郎、技術評論社、20/04/13）  のサポートリポジトリ
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 - [genkuroki/Calculus](https://github.com/genkuroki/Calculus) - Elementary Calculus
 
 ## Kotlin 

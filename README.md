@@ -298,11 +298,12 @@
 
 ## JavaScript 
 
+- [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale performance & reliability testing
 - [aws-samples/ask-around-me](https://github.com/aws-samples/ask-around-me) - The Ask Around Me example serverless web application. See the Compute Blog series and video series for more information. Contact @jbesw for info.
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
@@ -776,6 +777,7 @@
 
 ## TypeScript 
 
+- [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.

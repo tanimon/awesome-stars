@@ -298,6 +298,9 @@
 
 ## JavaScript 
 
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [reduction-admin/react-reduction](https://github.com/reduction-admin/react-reduction) - React Reduction - Free Admin Template Built with React and Bootstrap4
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
@@ -516,6 +519,7 @@
 
 ## Others 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [little-hands/ddd-q-and-a](https://github.com/little-hands/ddd-q-and-a) - DDD質問箱 回答記録
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
@@ -777,6 +781,8 @@
 
 ## TypeScript 
 
+- [reactbyexample/react-by-example](https://github.com/reactbyexample/react-by-example) - code-oriented React tutorial for programmers
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs

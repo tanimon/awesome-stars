@@ -246,6 +246,7 @@
 
 ## HTML 
 
+- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
@@ -298,6 +299,7 @@
 
 ## JavaScript 
 
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [reduction-admin/react-reduction](https://github.com/reduction-admin/react-reduction) - React Reduction - Free Admin Template Built with React and Bootstrap4
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -306,7 +308,7 @@
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale performance & reliability testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing
 - [aws-samples/ask-around-me](https://github.com/aws-samples/ask-around-me) - The Ask Around Me example serverless web application. See the Compute Blog series and video series for more information. Contact @jbesw for info.
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
@@ -1013,6 +1015,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing

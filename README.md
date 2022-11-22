@@ -163,6 +163,7 @@
 ## EJS 
 
 - [autumnchris/timestamp-api](https://github.com/autumnchris/timestamp-api) - An Express.js API that converts a given calendar date to its affiliated timestamp and vice versa.
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elm 
 
@@ -378,7 +379,6 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [wakatime/chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gatsbyjs/gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog) - Gatsby starter for creating a blog

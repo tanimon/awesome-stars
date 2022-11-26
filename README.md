@@ -596,6 +596,7 @@
 
 ## Python 
 
+- [aws-samples/amazon-dynamodb-labs](https://github.com/aws-samples/amazon-dynamodb-labs) - Hands on workshop and design scenarios for Amazon DynamoDB
 - [trek10inc/awsume](https://github.com/trek10inc/awsume) - A utility for easily assuming AWS IAM roles from the command line.
 - [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming

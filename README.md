@@ -710,7 +710,7 @@
 - [stafiprotocol/stafi-node](https://github.com/stafiprotocol/stafi-node) - StaFi Node Implementation
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [phaazon/toodoux](https://github.com/phaazon/toodoux) - A task manager based on taskwarrior
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [Emurgo/cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - This is a library, written in Rust, for serialization & deserialization of data structures used in Cardano's Haskell implementation of Alonzo along with useful utility functions.

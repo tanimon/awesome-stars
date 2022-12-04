@@ -289,7 +289,7 @@
 - [assertj/assertj-db](https://github.com/assertj/assertj-db) - Assertions for database
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [mifmif/Generex](https://github.com/mifmif/Generex) - A Java library for generating String from a regular expression.
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [selenide/selenide](https://github.com/selenide/selenide) - Concise UI Tests with Java!
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [vrapper/vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
@@ -791,6 +791,7 @@
 
 ## TypeScript 
 
+- [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [badrap/result](https://github.com/badrap/result) - A TypeScript result type taking cues from Rust's Result and Haskell's Either types
 - [reactbyexample/react-by-example](https://github.com/reactbyexample/react-by-example) - code-oriented React tutorial for programmers
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.

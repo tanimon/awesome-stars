@@ -799,6 +799,7 @@
 
 ## TypeScript 
 
+- [LottieFiles/lottie-react](https://github.com/LottieFiles/lottie-react) - lottie web player as a react component
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [badrap/result](https://github.com/badrap/result) - A TypeScript result type taking cues from Rust's Result and Haskell's Either types

@@ -61,6 +61,7 @@
 
 ## C 
 
+- [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
@@ -692,6 +693,8 @@
 
 ## Rust 
 
+- [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
@@ -748,6 +751,10 @@
 
 ## Shell 
 
+- [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [actions-ecosystem/action-release-label](https://github.com/actions-ecosystem/action-release-label) - 🏷️ GitHub Action to output a semver update level from a pull request release label
@@ -773,7 +780,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
-- [keithieopia/piu](https://github.com/keithieopia/piu) - Cross platform package manager wrapper
+- [beyondmeh/piu](https://github.com/beyondmeh/piu) - Cross platform package manager wrapper
 - [isobit/pac](https://github.com/isobit/pac) - A simple bash wrapper to make pacman more familiar to apt-get users
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
@@ -804,6 +811,7 @@
 
 ## TypeScript 
 
+- [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 - [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basi
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [ults-io/vscode-react-javascript-snippets](https://github.com/ults-io/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
@@ -1041,6 +1049,7 @@
 
 ## Vim Script 
 
+- [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."

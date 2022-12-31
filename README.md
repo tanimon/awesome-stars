@@ -445,6 +445,7 @@
 - [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+- [easysoft/zentaopms](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -596,7 +597,6 @@
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Official repository for main codebase for Tatoeba, a multilingual sentence/translation database.
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
-- [easysoft/zentaopms](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​
 
 ## Perl 
 

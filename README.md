@@ -209,7 +209,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast trading bot platform for cryptocurrency in Go (Binance)
-- [ovrclk/akash](https://github.com/ovrclk/akash) - a secure, transparent, and peer-to-peer cloud computing network
+- [akash-network/node](https://github.com/akash-network/node) - a secure, transparent, and peer-to-peer cloud computing network
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
 - [aaronjanse/3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
@@ -258,6 +258,7 @@
 
 ## HTML 
 
+- [tex2e/rfc-translater](https://github.com/tex2e/rfc-translater) - RFCを翻訳するツール群 & 翻訳済みRFCサイト
 - [FujiHaruka/google-eng-practices-ja](https://github.com/FujiHaruka/google-eng-practices-ja) - Google's Engineering Practices documentation 日本語訳
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -817,6 +818,7 @@
 
 ## TypeScript 
 
+- [ruizb/domain-modeling-ts](https://github.com/ruizb/domain-modeling-ts) - Domain modeling in TypeScript, using `fp-ts` ecosystem.
 - [gunners6518/Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
 - [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 - [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basi

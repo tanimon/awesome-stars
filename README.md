@@ -315,6 +315,8 @@
 
 ## JavaScript 
 
+- [AnuragBambardekar/Path-Explorer](https://github.com/AnuragBambardekar/Path-Explorer) - A Google Maps Travel Companion App using React.js
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json) - Sort an Object or package.json based on the well-known package.json keys
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -825,6 +827,7 @@
 
 ## TypeScript 
 
+- [apexlang/apex](https://github.com/apexlang/apex) - Apex CLI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)

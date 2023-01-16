@@ -827,6 +827,7 @@
 
 ## TypeScript 
 
+- [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [apexlang/apex](https://github.com/apexlang/apex) - Apex CLI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3

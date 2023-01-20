@@ -426,7 +426,7 @@
 - [lxieyang/vertical-tabs-chrome-extension](https://github.com/lxieyang/vertical-tabs-chrome-extension) - A chrome extension that presents your tabs vertically. Problem solved.
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [learn-anything/react-mindmap](https://github.com/learn-anything/react-mindmap) - React component for MindNode maps
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
 - [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
 - [jes/hardbin](https://github.com/jes/hardbin) - Encrypted pastebin using IPFS
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -662,7 +662,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [bergercookie/syncall](https://github.com/bergercookie/syncall) - Synchronization between Taskwarrior tasks and services such as Google Calendar, Notion and Google Keep. Formerly taskw_gcal_sync
+- [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [tools-life/taskwiki](https://github.com/tools-life/taskwiki) - Proper project management with Taskwarrior in vim.
 - [vit-project/vit](https://github.com/vit-project/vit) - VIT is a lightweight, fast, curses-based front end to Taskwarrior
@@ -830,6 +830,7 @@
 
 ## TypeScript 
 
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [apexlang/apex](https://github.com/apexlang/apex) - Apex CLI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React

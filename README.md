@@ -830,6 +830,7 @@
 
 ## TypeScript 
 
+- [ampproject/worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [RobinTail/express-zod-api](https://github.com/RobinTail/express-zod-api) - A Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [apexlang/apex](https://github.com/apexlang/apex) - Apex CLI

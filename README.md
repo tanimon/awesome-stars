@@ -43,6 +43,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
@@ -773,6 +774,10 @@
 - [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 
 - [play-with-docker/play-with-docker.github.io](https://github.com/play-with-docker/play-with-docker.github.io) - Play with docker class-room repo
 
+## Scala 
+
+- [scala-text/scala_text](https://github.com/scala-text/scala_text) - Scala学習用テキスト
+
 ## Shell 
 
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -836,6 +841,7 @@
 
 ## TypeScript 
 
+- [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar for logseq
 - [hkgnp/logseq-todoist-plugin](https://github.com/hkgnp/logseq-todoist-plugin) - 
 - [wmaurer/vscode-change-case](https://github.com/wmaurer/vscode-change-case) - Change Case Extension for Visual Studio Code
 - [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes

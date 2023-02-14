@@ -327,6 +327,7 @@
 
 ## JavaScript 
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mitsuruog/clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin

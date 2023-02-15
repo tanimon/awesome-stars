@@ -206,7 +206,7 @@
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
@@ -327,6 +327,7 @@
 
 ## JavaScript 
 
+- [karen-irc/option-t](https://github.com/karen-irc/option-t) - Option/Result type implementation in ECMAScript whose APIs are inspired by Rust's `Option&lt;T&gt;` and `Result&lt;T, E&gt;`.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mitsuruog/clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -1056,7 +1057,7 @@
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
-- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Gnosis Safe allows secure management of blockchain assets.
+- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools
 - [maticnetwork/matic.js](https://github.com/maticnetwork/matic.js) - Javascript developer library to interact with Matic Network
 - [CryptozombiesHQ/cryptozombie-lessons](https://github.com/CryptozombiesHQ/cryptozombie-lessons) - Lesson content for cryptozombies.io

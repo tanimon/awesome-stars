@@ -328,6 +328,7 @@
 
 ## JavaScript 
 
+- [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [option-t/option-t](https://github.com/option-t/option-t) - A toolkit of Nullable/Option/Result type implementation in ECMAScript. Their APIs are inspired by Rust's `Option&lt;T&gt;` and `Result&lt;T, E&gt;`.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [mitsuruog/clean-code-javascript](https://github.com/mitsuruog/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript

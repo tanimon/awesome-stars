@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [err0r500/go-realworld-clean](https://github.com/err0r500/go-realworld-clean) - a clean architecture implementation of the realworldapp : https://github.com/gothinkster/realworld
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -569,6 +570,7 @@
 
 ## Others 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Katsukiniwa/awesome-software-design-ja](https://github.com/Katsukiniwa/awesome-software-design-ja) - 日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews

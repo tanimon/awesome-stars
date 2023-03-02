@@ -865,6 +865,9 @@
 
 ## TypeScript 
 
+- [parlez-vous/server](https://github.com/parlez-vous/server) - API server for Parlez-Vous
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [bufbuild/connect-es](https://github.com/bufbuild/connect-es) - Type-safe APIs with Protobuf and TypeScript.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.

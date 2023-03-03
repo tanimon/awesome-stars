@@ -1057,7 +1057,7 @@
 - [catnose99/timeline](https://github.com/catnose99/timeline) - catnose's timeline
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [airgap-it/airgap-wallet](https://github.com/airgap-it/airgap-wallet) - The AirGap Wallet is installed on an everyday smartphone. This app has only access to public information.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [interledgerjs/interledgerjs](https://github.com/interledgerjs/interledgerjs) - Interledger.js Monorepo
 - [bloxapp/blox-live](https://github.com/bloxapp/blox-live) - 

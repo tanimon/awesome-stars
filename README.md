@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 - [err0r500/go-realworld-clean](https://github.com/err0r500/go-realworld-clean) - a clean architecture implementation of the realworldapp : https://github.com/gothinkster/realworld

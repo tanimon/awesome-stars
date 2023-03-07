@@ -839,6 +839,7 @@
 - [isobit/pac](https://github.com/isobit/pac) - A simple bash wrapper to make pacman more familiar to apt-get users
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 
 ## Solidity 
@@ -866,6 +867,7 @@
 
 ## TypeScript 
 
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [parlez-vous/server](https://github.com/parlez-vous/server) - API server for Parlez-Vous
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
@@ -1036,7 +1038,7 @@
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [textlint-rule/textlint-rule-no-dead-link](https://github.com/textlint-rule/textlint-rule-no-dead-link) - textlint rule to check if all links are alive.
 - [wakatime/chrome-wakatime](https://github.com/wakatime/chrome-wakatime) - Chrome extension for automatic time tracking and metrics generated from your browsing activity.
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
@@ -1168,7 +1170,6 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
-- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
 
 ## Vue 
 

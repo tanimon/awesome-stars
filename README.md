@@ -865,10 +865,12 @@
 
 ## TeX 
 
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
 - [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - The minimal TeXLive Docker image for Japanese
 
 ## TypeScript 
 
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [kawasima/dmmf-ts](https://github.com/kawasima/dmmf-ts) - Domain Modeling Made Functional in TypeScript
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [parlez-vous/server](https://github.com/parlez-vous/server) - API server for Parlez-Vous

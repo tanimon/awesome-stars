@@ -871,6 +871,7 @@
 
 ## TypeScript 
 
+- [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [kawasima/dmmf-ts](https://github.com/kawasima/dmmf-ts) - Domain Modeling Made Functional in TypeScript
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.

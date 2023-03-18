@@ -615,7 +615,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode) - A list of practical knowledge-building projects.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
-- [remnoteio/remnote-issues](https://github.com/remnoteio/remnote-issues) - The official public issue tracker for RemNote.io
 - [matsuu/vagrant-isucon](https://github.com/matsuu/vagrant-isucon) - ISUCON過去問を構築するためのVagrantfile集
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
@@ -749,7 +748,7 @@
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types

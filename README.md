@@ -529,6 +529,7 @@
 
 ## Jupyter Notebook 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
@@ -656,6 +657,7 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [tenetlang/tenetlang](https://github.com/tenetlang/tenetlang) - A GPT-Designed Language Built for Humans
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
@@ -874,6 +876,7 @@
 
 ## TypeScript 
 
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames

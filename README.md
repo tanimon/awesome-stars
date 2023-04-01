@@ -868,7 +868,7 @@
 
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-- [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - SesameSDK は簡単かつパワフルかつ無料な、iOS/Androidアプリ用の Bluetooth/IoT(Internet of Things)ライブラリ です。公式 セサミアプリ もこの SesameSDK を用いて構築されており、この SesameSDK にて、あなたのアプリでもセサミアプリが有する全ての機能を持たせることが可能です。
+- [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - To be open source soon! SesameSDK は簡単かつパワフルかつ無料な、iOS/Androidアプリ用の Bluetooth/IoT(Internet of Things)ライブラリ です。公式 セサミアプリ もこの SesameSDK を用いて構築されており、この SesameSDK にて、あなたのアプリでもセサミアプリが有する全ての機能を持たせることが可能です。
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app

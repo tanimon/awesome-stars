@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [gregoryyoung/m-r](https://github.com/gregoryyoung/m-r) - Simple CQRS example
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Cor
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - #1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representative
@@ -134,7 +135,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [xaizek/zograscope](https://github.com/xaizek/zograscope) - Mainly a syntax-aware diff that also provides a number of additional tools.
@@ -891,6 +892,7 @@
 
 ## TypeScript 
 
+- [classmethod/athena-query](https://github.com/classmethod/athena-query) - Athena-Query provide simple interface to get athena query results.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
@@ -1064,7 +1066,7 @@
 - [deathau/sliding-panes-obsidian](https://github.com/deathau/sliding-panes-obsidian) - Andy Matuschak Mode as a plugin
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [mafredri/phoenix-config](https://github.com/mafredri/phoenix-config) - My personal Phoenix (kasper/phoenix) configuration, written in TypeScript
 - [dguo/make-a-readme](https://github.com/dguo/make-a-readme) - :page_facing_up: Because nobody can read your mind (yet)
@@ -1158,7 +1160,7 @@
 
 - [v-community/v_by_example](https://github.com/v-community/v_by_example) - Learn V by Example
 - [vlang/vbrowser](https://github.com/vlang/vbrowser) - Upcoming browser written from scratch in V UI
-- [vlang/ui](https://github.com/vlang/ui) - Cross-platform UI library written in V
+- [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 

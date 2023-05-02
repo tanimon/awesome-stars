@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
@@ -897,6 +898,8 @@
 
 ## TypeScript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [knowledge-work/eslint-plugin-return-type](https://github.com/knowledge-work/eslint-plugin-return-type) - ESlint plugin to enforces the usage of specific return types.
 - [mdbetancourt/eslint-plugin-neverthrow](https://github.com/mdbetancourt/eslint-plugin-neverthrow) - 
 - [classmethod/athena-query](https://github.com/classmethod/athena-query) - Athena-Query provide simple interface to get athena query results.

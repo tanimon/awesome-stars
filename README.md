@@ -332,6 +332,8 @@
 
 ## JavaScript 
 
+- [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
+- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [yuichkun/javascript-testing-best-practices](https://github.com/yuichkun/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
@@ -905,6 +907,8 @@
 
 ## TypeScript 
 
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [apollo-server-integrations/apollo-server-integration-aws-lambda](https://github.com/apollo-server-integrations/apollo-server-integration-aws-lambda) - An integration to use AWS Lambda as a hosting service with Apollo Server
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.

@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [vvakame/graphql-schema-guide](https://github.com/vvakame/graphql-schema-guide) - GraphQLスキーマのあれこれをいい感じにする本
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
@@ -269,6 +270,7 @@
 
 ## HTML 
 
+- [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
 - [testplanisphere/hotel-example-site](https://github.com/testplanisphere/hotel-example-site) - Sandbox website for learning test automation (hotel reservation)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [tex2e/rfc-translater](https://github.com/tex2e/rfc-translater) - RFCを翻訳するツール群 & 翻訳済みRFCサイト
@@ -585,6 +587,7 @@
 
 ## Others 
 
+- [jaydenseric/graphql-multipart-request-spec](https://github.com/jaydenseric/graphql-multipart-request-spec) - A spec for GraphQL multipart form requests (file uploads).
 - [aws-events/aws-dev-day-tokyo-2023-cfp](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp) - 
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [NoriSte/ui-testing-best-practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: March 2023)
@@ -904,6 +907,8 @@
 
 ## TypeScript 
 
+- [kawamataryo/suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add @ts-expect-errors to typescript type errors
+- [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)

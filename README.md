@@ -166,6 +166,7 @@
 
 ## Dart 
 
+- [yumemi-inc/flutter-training-template](https://github.com/yumemi-inc/flutter-training-template) - 株式会社ゆめみ Flutter 研修
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## EJS 
@@ -270,6 +271,7 @@
 
 ## HTML 
 
+- [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Fragments -- Stage 1 proposal
 - [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
 - [testplanisphere/hotel-example-site](https://github.com/testplanisphere/hotel-example-site) - Sandbox website for learning test automation (hotel reservation)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -305,6 +307,7 @@
 
 ## Java 
 
+- [nrslib/itddd-java](https://github.com/nrslib/itddd-java) - 
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -330,6 +333,7 @@
 
 ## JavaScript 
 
+- [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -588,6 +592,7 @@
 
 ## Others 
 
+- [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
 - [jaydenseric/graphql-multipart-request-spec](https://github.com/jaydenseric/graphql-multipart-request-spec) - A spec for GraphQL multipart form requests (file uploads).
 - [aws-events/aws-dev-day-tokyo-2023-cfp](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp) - 
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group

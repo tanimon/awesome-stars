@@ -919,6 +919,7 @@
 
 ## TypeScript 
 
+- [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [kawamataryo/suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add @ts-expect-errors to typescript type errors
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀

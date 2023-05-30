@@ -29,7 +29,9 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -142,6 +144,7 @@
 
 ## CSS 
 
+- [joy-of-react/word-clone](https://github.com/joy-of-react/word-clone) - 
 - [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [Renovamen/blog.zxh.io](https://github.com/Renovamen/blog.zxh.io) - My blog 🧐, powered by VuePress 2, themed by Gungnir.
@@ -336,6 +339,7 @@
 
 ## JavaScript 
 
+- [mizchi/optools](https://github.com/mizchi/optools) - 
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown).
 - [wayfair/dociql](https://github.com/wayfair/dociql) - A beautiful static documentation generator for GraphQL
@@ -572,11 +576,19 @@
 - [LayerXcom/cordage](https://github.com/LayerXcom/cordage) - Cordage: the blockchain interoperability project!
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
+## Lean 
+
+- [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library
+
 ## Lua 
 
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
+## Makefile 
+
+- [0xType/0xProto](https://github.com/0xType/0xProto) - Free and Open-source font for programming.
 
 ## Markdown 
 
@@ -926,7 +938,6 @@
 ## TypeScript 
 
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-- [mizchi/optools](https://github.com/mizchi/optools) - 
 - [B2o5T/graphql-eslint](https://github.com/B2o5T/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.

@@ -596,7 +596,7 @@
 
 ## Nix 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql) - GraphQL API for Cardano
 
 ## OCaml 

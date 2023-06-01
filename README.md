@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [shuntaka9576/gh-p2](https://github.com/shuntaka9576/gh-p2) - ✨ GitHub CLI extension ProjectV2 utility
 - [Code-Hex/gqldoc](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -339,6 +340,7 @@
 
 ## JavaScript 
 
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [mizchi/optools](https://github.com/mizchi/optools) - 
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown).
@@ -802,6 +804,7 @@
 
 ## Rust 
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
@@ -937,6 +940,7 @@
 
 ## TypeScript 
 
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [B2o5T/graphql-eslint](https://github.com/B2o5T/graphql-eslint) - ESLint parser, plugin and set rules for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server

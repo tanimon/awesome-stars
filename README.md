@@ -342,6 +342,7 @@
 
 ## JavaScript 
 
+- [jfromaniello/url-join](https://github.com/jfromaniello/url-join) - Join all arguments together and normalize the resulting url.
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [mizchi/optools](https://github.com/mizchi/optools) - 
@@ -358,7 +359,7 @@
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [yuichkun/javascript-testing-best-practices](https://github.com/yuichkun/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [mifi/react-lottie-player](https://github.com/mifi/react-lottie-player) - Fully declarative React Lottie player

@@ -135,7 +135,7 @@
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [xaizek/zograscope](https://github.com/xaizek/zograscope) - Mainly a syntax-aware diff that also provides a number of additional tools.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -342,17 +342,18 @@
 
 ## JavaScript 
 
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
+- [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [jfromaniello/url-join](https://github.com/jfromaniello/url-join) - Join all arguments together and normalize the resulting url.
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [mizchi/optools](https://github.com/mizchi/optools) - 
+- [mizchi/packelyze](https://github.com/mizchi/packelyze) - 
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown).
 - [wayfair/dociql](https://github.com/wayfair/dociql) - A beautiful static documentation generator for GraphQL
 - [anvilco/spectaql](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 - [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
@@ -943,6 +944,8 @@
 
 ## TypeScript 
 
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
 - [qrac/minista](https://github.com/qrac/minista) - Static site generator with 100% static export from React and Vite.
@@ -961,6 +964,7 @@
 - [kawamataryo/suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add @ts-expect-errors to typescript type errors
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
@@ -1074,7 +1078,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
-- [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is a flexible open-source Node.js app development platform. It helps you build production-ready Node.js backend without wasting time on repetitive coding.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io

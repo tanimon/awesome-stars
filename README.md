@@ -31,6 +31,7 @@
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -590,9 +591,14 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [akinsho/dotfiles](https://github.com/akinsho/dotfiles) - 🏡 dotfiles
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Makefile 
 
@@ -605,7 +611,7 @@
 ## Nix 
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [input-output-hk/cardano-graphql](https://github.com/input-output-hk/cardano-graphql) - GraphQL API for Cardano
+- [cardano-foundation/cardano-graphql](https://github.com/cardano-foundation/cardano-graphql) - GraphQL API for Cardano
 
 ## OCaml 
 
@@ -838,7 +844,6 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -948,6 +953,7 @@
 
 ## TypeScript 
 
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder

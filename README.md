@@ -350,6 +350,7 @@
 
 ## JavaScript 
 
+- [levibuzolic/eslint-plugin-no-only-tests](https://github.com/levibuzolic/eslint-plugin-no-only-tests) - ESLint rule for catching focused/only test blocks
 - [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [line/line-openapi](https://github.com/line/line-openapi) - OpenAPI spec of the LINE's Public APIs
@@ -595,6 +596,7 @@
 
 ## Kotlin 
 
+- [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [T45K/CLIONE](https://github.com/T45K/CLIONE) - Code Clone Modification Support Bot
 - [LayerXcom/cordage](https://github.com/LayerXcom/cordage) - Cordage: the blockchain interoperability project!
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -960,6 +962,7 @@
 
 ## Swift 
 
+- [protonpass/ios-pass](https://github.com/protonpass/ios-pass) - iOS client for Proton Pass
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - To be open source soon! SesameSDK は簡単かつパワフルかつ無料な、iOS/Androidアプリ用の Bluetooth/IoT(Internet of Things)ライブラリ です。公式 セサミアプリ もこの SesameSDK を用いて構築されており、この SesameSDK にて、あなたのアプリでもセサミアプリが有する全ての機能を持たせることが可能です。

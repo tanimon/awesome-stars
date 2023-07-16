@@ -76,7 +76,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
@@ -1217,7 +1217,7 @@
 - [plusone-masaki/csv-plus](https://github.com/plusone-masaki/csv-plus) - A completely new CSV editor that gives you a great experience with simple operations.
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (297 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [textlint-rule/textlint-rule-no-dead-link](https://github.com/textlint-rule/textlint-rule-no-dead-link) - textlint rule to check if all links are alive.
@@ -1330,7 +1330,7 @@
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [k-takata/minpac](https://github.com/k-takata/minpac) - A minimal package manager for Vim 8 (and Neovim)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-- [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
+- [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) - Plugpac is a plugin manger written in Vim9 based on minpac, provides vim-plug-like experience
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.

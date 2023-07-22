@@ -351,6 +351,7 @@
 
 ## JavaScript 
 
+- [cybozu/eslint-config](https://github.com/cybozu/eslint-config) - ESLint rules for Cybozu
 - [eulerfx/DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - Event-Sourcing and Domain-Driven Design with F# and EventStore
 - [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
 - [levibuzolic/eslint-plugin-no-only-tests](https://github.com/levibuzolic/eslint-plugin-no-only-tests) - ESLint rule for catching focused/only test blocks
@@ -764,7 +765,6 @@
 - [aws-samples/amazon-dynamodb-labs](https://github.com/aws-samples/amazon-dynamodb-labs) - Hands on workshop and design scenarios for Amazon DynamoDB
 - [trek10inc/awsume](https://github.com/trek10inc/awsume) - A utility for easily assuming AWS IAM roles from the command line.
 - [future-architect/typescript-guide](https://github.com/future-architect/typescript-guide) - ゼロから学ぶTypeScriptガイド
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [Juriy/swapi](https://github.com/Juriy/swapi) - SWAPI - Star Wars API service
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -984,6 +984,7 @@
 
 ## TypeScript 
 
+- [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [aripalo/aws-cdk-github-oidc](https://github.com/aripalo/aws-cdk-github-oidc) - CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM
 - [coderabbitai/openai-pr-reviewer](https://github.com/coderabbitai/openai-pr-reviewer) - OpenAI ChatGPT based PR reviewer and summarizer
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -1148,6 +1149,7 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ericclemmons/click-to-component](https://github.com/ericclemmons/click-to-component) - Option+Click React components in your browser to instantly open the source in VS Code
 - [line/liff-mock](https://github.com/line/liff-mock) - LIFF Mock is a LIFF Plugin that make testing your LIFF app easy.

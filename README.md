@@ -859,7 +859,7 @@
 ## Rust 
 
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs for your data
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Instant GraphQL APIs
 - [vinted/elasticsearch-dsl-rs](https://github.com/vinted/elasticsearch-dsl-rs) - Strongly typed Elasticsearch DSL written in Rust
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten

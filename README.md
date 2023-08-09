@@ -842,7 +842,7 @@
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [flatplanet/railsfriends](https://github.com/flatplanet/railsfriends) - 
-- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - Ruby on Railsガイドの公開リポジトリです。
+- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - 📕 Ruby on Railsガイドの公開リポジトリです。
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [bountysource/core](https://github.com/bountysource/core) - Bountysource is the funding platform for open-source software.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -1273,7 +1273,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [manyuanrong/sql-builder](https://github.com/manyuanrong/sql-builder) - SQL query builder for Deno
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault

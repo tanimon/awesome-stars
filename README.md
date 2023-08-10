@@ -22,6 +22,7 @@
 - [F#](#f#)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
@@ -290,6 +291,10 @@
 
 - [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for Software Architecture Documentation
 
+## HCL 
+
+- [BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
+
 ## HTML 
 
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
@@ -354,6 +359,8 @@
 
 ## JavaScript 
 
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
+- [code4fukui/HEIC](https://github.com/code4fukui/HEIC) - 
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [tc39/proposal-iterator.range](https://github.com/tc39/proposal-iterator.range) - A proposal for ECMAScript to add a built-in Iterator.range()
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
@@ -1040,7 +1047,7 @@
 - [kawamataryo/suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add @ts-expect-errors to typescript type errors
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.

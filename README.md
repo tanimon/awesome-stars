@@ -1010,6 +1010,7 @@
 
 ## TypeScript 
 
+- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript

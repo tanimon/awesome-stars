@@ -149,7 +149,7 @@
 
 ## CSS 
 
-- [joy-of-react/word-clone](https://github.com/joy-of-react/word-clone) - 
+- [joy-of-react/project-wordle](https://github.com/joy-of-react/project-wordle) - 
 - [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [Renovamen/blog.zxh.io](https://github.com/Renovamen/blog.zxh.io) - My blog 🧐, powered by VuePress 2, themed by Gungnir.
@@ -236,7 +236,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [b4b4r07/afx](https://github.com/b4b4r07/afx) - 📦  Package manager for CLI
+- [babarot/afx](https://github.com/babarot/afx) - 📦  Package manager for CLI
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [STNS/STNS](https://github.com/STNS/STNS) - Simple Toml Name Service
@@ -282,7 +282,7 @@
 - [ecosia/lets-golang](https://github.com/ecosia/lets-golang) - 
 - [isucon/isucon9-final](https://github.com/isucon/isucon9-final) - ISUCON9 本戦問題
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
-- [b4b4r07/stein](https://github.com/b4b4r07/stein) - A linter for config files with a customizable rule set
+- [babarot/stein](https://github.com/babarot/stein) - A linter for config files with a customizable rule set
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
@@ -965,7 +965,7 @@
 - [azu/git-hooks](https://github.com/azu/git-hooks) - @azu's global git hooks
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [yuru7/HackGen](https://github.com/yuru7/HackGen) - Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [makerdao/developerguides](https://github.com/makerdao/developerguides) - Developer guides to integrate with MakerDAO's smart contracts, SDKs, APIs, products, and partners
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -979,7 +979,7 @@
 - [isobit/pac](https://github.com/isobit/pac) - A simple bash wrapper to make pacman more familiar to apt-get users
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
-- [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - A repository that gathered files starting with dot
+- [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 
 ## Solidity 

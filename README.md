@@ -574,7 +574,7 @@
 - [denkiwakame/arxiv2scrap](https://github.com/denkiwakame/arxiv2scrap) - easy-to-use arXiv clipper for scrapbox
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [contentful/starter-gatsby-blog](https://github.com/contentful/starter-gatsby-blog) - Gatsby starter for a Contentful project from the community.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [play-with-docker/play-with-docker](https://github.com/play-with-docker/play-with-docker) - You know it, you use it, now it's time to improve it. PWD!.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -1009,6 +1009,7 @@
 
 ## TypeScript 
 
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [cmoog/vscode-sql-notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files as VSCode Notebooks.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [mattallty/jest-github-action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments

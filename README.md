@@ -302,6 +302,7 @@
 
 ## HTML 
 
+- [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that enables creating web based metrics dashboard for k6
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
 - [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
 - [testplanisphere/hotel-example-site](https://github.com/testplanisphere/hotel-example-site) - Sandbox website for learning test automation (hotel reservation)
@@ -1010,7 +1011,7 @@
 
 ## TeX 
 
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
+- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
 - [Paperist/texlive-ja](https://github.com/Paperist/texlive-ja) - The minimal TeXLive Docker image for Japanese
 
 ## TypeScript 

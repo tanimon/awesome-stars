@@ -287,7 +287,7 @@
 - [babarot/stein](https://github.com/babarot/stein) - A linter for config files with a customizable rule set
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
+- [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [matsuu/kataribe](https://github.com/matsuu/kataribe) - Access log profiler based on response time
@@ -875,7 +875,7 @@
 
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - You data, globally fast.
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - Your data, globally fast.
 - [vinted/elasticsearch-dsl-rs](https://github.com/vinted/elasticsearch-dsl-rs) - Strongly typed Elasticsearch DSL written in Rust
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten

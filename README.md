@@ -768,6 +768,7 @@
 
 ## PowerShell 
 
+- [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
@@ -876,7 +877,7 @@
 
 ## Rust 
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
@@ -1005,7 +1006,7 @@
 - [protonpass/ios-pass](https://github.com/protonpass/ios-pass) - iOS client for Proton Pass
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-- [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - SesameSDK3.0は、iOS/Android/組み込みシステム向けのBluetooth/IoT（Internet of Things）ライブラリであり、オープンソース、使いやすく、強力、かつ永続的に無料です。公式のセサミアプリもこのSesameSDKを使用しており、このSDKを用いてあなたのアプリにもセサミアプリが持つ全ての機能を組み込むことができます。
+- [CANDY-HOUSE/SesameSDK_iOS_with_DemoApp](https://github.com/CANDY-HOUSE/SesameSDK_iOS_with_DemoApp) - SesameSDK3.0は、iOS/Android/Embedded向けのBluetooth/IoT（Internet of Things）ライブラリであり、オープンソース、使いやすく、強力、かつ永続的に無料です。公式のセサミアプリもこのSesameSDKを使用しており、このSDKを用いてあなたのアプリにもセサミアプリが持つ全ての機能を組み込むことができます。
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app

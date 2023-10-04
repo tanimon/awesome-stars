@@ -339,6 +339,7 @@
 
 ## Java 
 
+- [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 - [nrslib/itddd-java](https://github.com/nrslib/itddd-java) - 
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -378,7 +379,7 @@
 - [eulerfx/DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - Event-Sourcing and Domain-Driven Design with F# and EventStore
 - [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
 - [levibuzolic/eslint-plugin-no-only-tests](https://github.com/levibuzolic/eslint-plugin-no-only-tests) - ESLint rule for catching focused/only test blocks
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime for linux only
+- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [line/line-openapi](https://github.com/line/line-openapi) - OpenAPI spec of the LINE's Public APIs
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -1050,7 +1051,7 @@
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [domdomegg/aws-ses-v2-local](https://github.com/domdomegg/aws-ses-v2-local) - ☁📬 A local version of Amazon Simple Email Service (AWS SES) supporting the V1 and V2 API
 - [volta-cli/action](https://github.com/volta-cli/action) - GitHub Action to Setup Volta
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [ts-arch/ts-arch](https://github.com/ts-arch/ts-arch) - An architecture unit test framework for Typescript
 - [aripalo/aws-cdk-github-oidc](https://github.com/aripalo/aws-cdk-github-oidc) - CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM

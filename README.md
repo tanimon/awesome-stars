@@ -214,6 +214,7 @@
 
 ## Go 
 
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -873,7 +874,7 @@
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [flatplanet/railsfriends](https://github.com/flatplanet/railsfriends) - 
-- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - 📕 Ruby on Railsガイドの公開リポジトリです。
+- [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp) - 📕 Ruby on Railsガイドの公開リポジトリです。1600ページ超えの大型リファレンスとなっています。
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [bountysource/core](https://github.com/bountysource/core) - Bountysource is the funding platform for open-source software.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -1038,6 +1039,7 @@
 
 ## TypeScript 
 
+- [kinde-oss/kinde-auth-react](https://github.com/kinde-oss/kinde-auth-react) - Kinde React SDK for frontend authentication flows
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [sourcefuse/loopback4-microservice-catalog](https://github.com/sourcefuse/loopback4-microservice-catalog) - A Catalog of Microservices Created by SourceFuse for the Community
 - [RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript

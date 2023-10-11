@@ -490,7 +490,6 @@
 - [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -636,7 +635,7 @@
 
 ## Lean 
 
-- [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library
+- [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean 3's obsolete mathematical components library: please use mathlib4
 
 ## Lua 
 
@@ -718,6 +717,7 @@
 - [YoshiiRyo1/document-templates-for-aws](https://github.com/YoshiiRyo1/document-templates-for-aws) - 
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [akash-network/docs](https://github.com/akash-network/docs) - Akash Network Official Documentation
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [mercari/engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [mafredri/phoenix-typings](https://github.com/mafredri/phoenix-typings) - TypeScript typings for Phoenix (kasper/phoenix)
@@ -785,7 +785,7 @@
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [google/budoux](https://github.com/google/budoux) - 
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
+- [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Azure-Samples/jp-azureopenai-samples](https://github.com/Azure-Samples/jp-azureopenai-samples) - 
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification

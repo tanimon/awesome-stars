@@ -614,7 +614,6 @@
 - [aws-samples/aws-ml-enablement-workshop](https://github.com/aws-samples/aws-ml-enablement-workshop) - 組織横断的にチームを組成し、機械学習による成長サイクルを実現する計画を立てるワークショップ
 - [takashi-uchida/learn-aws-by-coding](https://github.com/takashi-uchida/learn-aws-by-coding) - コードで学ぶAWS入門
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors
 - [sonoisa/qiita-title-generation](https://github.com/sonoisa/qiita-title-generation) - Qiitaの記事本文を与えるとタイトルを自動生成してくれる深層学習モデルの推論処理
@@ -698,6 +697,7 @@
 - [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders) - A collection of engineering ladders for reference and inspiration
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [Mattraks/delete-workflow-runs](https://github.com/Mattraks/delete-workflow-runs) - An action to delete workflow runs in a repository.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [Katsukiniwa/awesome-software-design-ja](https://github.com/Katsukiniwa/awesome-software-design-ja) - 日本語でのソフトウェア開発・設計に関する記事や書籍をまとめたリポジトリです
@@ -784,7 +784,6 @@
 
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [google/budoux](https://github.com/google/budoux) - 
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Azure-Samples/jp-azureopenai-samples](https://github.com/Azure-Samples/jp-azureopenai-samples) - 
@@ -1060,6 +1059,7 @@
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [mattallty/jest-github-action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript

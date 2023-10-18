@@ -381,7 +381,7 @@
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [tc39/proposal-iterator.range](https://github.com/tc39/proposal-iterator.range) - A proposal for ECMAScript to add a built-in Iterator.range()
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [cybozu/eslint-config](https://github.com/cybozu/eslint-config) - ESLint rules for Cybozu
 - [eulerfx/DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - Event-Sourcing and Domain-Driven Design with F# and EventStore
 - [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
@@ -783,6 +783,7 @@
 
 ## Python 
 
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [google/budoux](https://github.com/google/budoux) - 
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
@@ -1041,6 +1042,9 @@
 
 ## TypeScript 
 
+- [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges
+- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - Generative AI を活用したビジネスユースケースのデモンストレーション
 - [kinde-oss/kinde-auth-react](https://github.com/kinde-oss/kinde-auth-react) - Kinde React SDK for frontend authentication flows
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram

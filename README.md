@@ -237,6 +237,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [classmethod/aurl](https://github.com/classmethod/aurl) - Command line utility to make HTTP request with OAuth2
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -1188,7 +1189,6 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit)
 - [swc-project/swc-node](https://github.com/swc-project/swc-node) - Faster ts-node without typecheck
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.

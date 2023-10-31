@@ -119,7 +119,6 @@
 - [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 - [EWSoftware/SHFB](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle 
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [eksime/VDesk](https://github.com/eksime/VDesk) - Launch programs on new virtual desktops.
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
 - [charlesw/tesseract](https://github.com/charlesw/tesseract) - A .Net wrapper for tesseract-ocr
@@ -297,6 +296,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [matsuu/kataribe](https://github.com/matsuu/kataribe) - Access log profiler based on response time
 
@@ -898,6 +898,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust

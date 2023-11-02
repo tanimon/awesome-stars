@@ -1051,12 +1051,13 @@
 
 ## TypeScript 
 
+- [ky0yk/einoji](https://github.com/ky0yk/einoji) - 
 - [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [aws-samples/generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - Generative AI を活用したビジネスユースケースのデモンストレーション
 - [kinde-oss/kinde-auth-react](https://github.com/kinde-oss/kinde-auth-react) - Kinde React SDK for frontend authentication flows
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [sourcefuse/loopback4-microservice-catalog](https://github.com/sourcefuse/loopback4-microservice-catalog) - A Catalog of Microservices Created by SourceFuse for the Community
 - [RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions

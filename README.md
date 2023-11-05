@@ -299,6 +299,7 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [matsuu/kataribe](https://github.com/matsuu/kataribe) - Access log profiler based on response time
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 
 ## Groovy 
 
@@ -1016,7 +1017,6 @@
 - [beyondmeh/piu](https://github.com/beyondmeh/piu) - Cross platform package manager wrapper
 - [isobit/pac](https://github.com/isobit/pac) - A simple bash wrapper to make pacman more familiar to apt-get users
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [babarot/dotfiles](https://github.com/babarot/dotfiles) - A repository that gathered files starting with dot
 - [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
 

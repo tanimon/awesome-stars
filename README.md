@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -152,6 +153,10 @@
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+
+## CMake 
+
+- [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 
 ## CSS 
 
@@ -783,7 +788,6 @@
 
 ## PowerShell 
 
-- [thebrowsercompany/swift-build](https://github.com/thebrowsercompany/swift-build) - Swift toolchain builds by The Browser Company
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 

@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [vvakame/graphql-schema-guide](https://github.com/vvakame/graphql-schema-guide) - GraphQLスキーマのあれこれをいい感じにする本
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
@@ -219,7 +220,6 @@
 
 ## Go 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -1084,7 +1084,7 @@
 - [mattallty/jest-github-action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript
+- [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript, like Cake Pattern
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [domdomegg/aws-ses-v2-local](https://github.com/domdomegg/aws-ses-v2-local) - ☁📬 A local version of Amazon Simple Email Service (AWS SES) supporting the V1 and V2 API
 - [volta-cli/action](https://github.com/volta-cli/action) - GitHub Action to Setup Volta

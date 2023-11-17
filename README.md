@@ -380,6 +380,7 @@
 
 ## JavaScript 
 
+- [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
 - [isaacs/tshy](https://github.com/isaacs/tshy) - 
 - [anishkny/playwright-test-coverage-demo](https://github.com/anishkny/playwright-test-coverage-demo) - Demonstrates usage of playwright-test-coverage - a Playwright extension that collects code coverage from running end-to-end tests
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
@@ -396,7 +397,7 @@
 - [eulerfx/DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - Event-Sourcing and Domain-Driven Design with F# and EventStore
 - [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
 - [levibuzolic/eslint-plugin-no-only-tests](https://github.com/levibuzolic/eslint-plugin-no-only-tests) - ESLint rule for catching focused/only test blocks
-- [just-js/just](https://github.com/just-js/just) - a very small v8 javascript runtime
+- [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - :book: JavaScript Primer - 迷わないための入門書
 - [line/line-openapi](https://github.com/line/line-openapi) - OpenAPI spec of the LINE's Public APIs
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -498,7 +499,7 @@
 - [jaredhanson/passport-oauth2](https://github.com/jaredhanson/passport-oauth2) - OAuth 2.0 authentication strategy for Passport and Node.js.
 - [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as
-- [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -690,6 +691,7 @@
 
 ## Others 
 
+- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [agile-samurai-ja/support](https://github.com/agile-samurai-ja/support) - 『アジャイルサムライ』のサポートページです
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
@@ -792,6 +794,7 @@
 
 ## Python 
 
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [Raudaschl/rag-fusion](https://github.com/Raudaschl/rag-fusion) - 
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
@@ -906,7 +909,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
-- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
+- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [LukeMathWalker/pavex](https://github.com/LukeMathWalker/pavex) - An easy-to-use Rust framework for building robust and performant APIs
 - [redbadger/crux](https://github.com/redbadger/crux) - Cross-platform app development in Rust
 - [twigly/rust-http-cli](https://github.com/twigly/rust-http-cli) - rh is a user-friendly command-line tool to request HTTP APis

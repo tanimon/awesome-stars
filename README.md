@@ -1060,6 +1060,7 @@
 
 ## TypeScript 
 
+- [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
 - [ky0yk/einoji](https://github.com/ky0yk/einoji) - 
 - [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges
 - [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!

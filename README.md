@@ -63,6 +63,7 @@
 - [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [YARA](#yara)
 - [Zig](#zig)
 
 ## Astro 
@@ -665,6 +666,7 @@
 ## Makefile 
 
 - [0xType/0xProto](https://github.com/0xType/0xProto) - Free and Open-source font for programming
+- [vlang/vox-browser](https://github.com/vlang/vox-browser) - Upcoming browser written from scratch in V UI
 
 ## Markdown 
 
@@ -794,6 +796,7 @@
 
 ## Python 
 
+- [t-tani/pac2-dev](https://github.com/t-tani/pac2-dev) - PowerAutomate C2 Framework
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [Raudaschl/rag-fusion](https://github.com/Raudaschl/rag-fusion) - 
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -1060,6 +1063,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
 - [ky0yk/einoji](https://github.com/ky0yk/einoji) - 
 - [sonikjs/sonik](https://github.com/sonikjs/sonik) - [Alpha] The meta-framework for Edges
@@ -1420,7 +1424,6 @@
 ## V 
 
 - [v-community/v_by_example](https://github.com/v-community/v_by_example) - Learn V by Example
-- [vlang/vbrowser](https://github.com/vlang/vbrowser) - Upcoming browser written from scratch in V UI
 - [vlang/ui](https://github.com/vlang/ui) - A cross-platform UI library written in V
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -1470,6 +1473,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+
+## YARA 
+
+- [shuakabane/stelftools](https://github.com/shuakabane/stelftools) - cross-architecture static library detector for IoT malware
 
 ## Zig 
 

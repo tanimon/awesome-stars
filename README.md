@@ -666,7 +666,6 @@
 ## Makefile 
 
 - [0xType/0xProto](https://github.com/0xType/0xProto) - Free and Open-source font for programming
-- [vlang/vox-browser](https://github.com/vlang/vox-browser) - Upcoming browser written from scratch in V UI
 
 ## Markdown 
 
@@ -693,7 +692,7 @@
 
 ## Others 
 
-- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of resources on automated load- and performance testing using k6 🗻
+- [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
 - [agile-samurai-ja/support](https://github.com/agile-samurai-ja/support) - 『アジャイルサムライ』のサポートページです
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
@@ -757,6 +756,7 @@
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
 - [matsuu/vagrant-isucon](https://github.com/matsuu/vagrant-isucon) - ISUCON過去問を構築するためのVagrantfile集
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+- [vlang/vox-browser](https://github.com/vlang/vox-browser) - Upcoming browser written from scratch in V UI
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [Keypirinha/Keypirinha](https://github.com/Keypirinha/Keypirinha) - A fast keystroke launcher for Windows
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝

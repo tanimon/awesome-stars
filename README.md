@@ -694,6 +694,7 @@
 
 ## Others 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
 - [agile-samurai-ja/support](https://github.com/agile-samurai-ja/support) - 『アジャイルサムライ』のサポートページです

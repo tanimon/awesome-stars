@@ -63,6 +63,7 @@
 - [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [YARA](#yara)
 - [Zig](#zig)
 
@@ -574,7 +575,6 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 - [dcchambers/vb4c](https://github.com/dcchambers/vb4c) - vb4c has been archived - please direct all conversation to the original cVim project page: https://github.com/1995eaton/chromium-vim
-- [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [pastak/scboloo](https://github.com/pastak/scboloo) - easy way to post webpage to scrapbox.io
 - [Coding-Coach/coding-coach](https://github.com/Coding-Coach/coding-coach) - This is the landing page :)
@@ -1490,6 +1490,10 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+
+## Vue 
+
+- [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 
 ## YARA 
 

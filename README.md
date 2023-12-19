@@ -323,6 +323,7 @@
 
 ## HTML 
 
+- [aws/aws-security-services-best-practices](https://github.com/aws/aws-security-services-best-practices) - 
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that enables creating web based metrics dashboard for k6
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
 - [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
@@ -387,6 +388,7 @@
 
 ## JavaScript 
 
+- [graphql/graphql-wg](https://github.com/graphql/graphql-wg) - Working group notes for GraphQL
 - [tim-kos/node-retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.
 - [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
 - [isaacs/tshy](https://github.com/isaacs/tshy) - 

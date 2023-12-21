@@ -77,6 +77,7 @@
 
 ## C 
 
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -324,6 +325,7 @@
 
 ## HTML 
 
+- [tokyotech-llm/tokyotech-llm.github.io](https://github.com/tokyotech-llm/tokyotech-llm.github.io) - GitHub Pages
 - [aws/aws-security-services-best-practices](https://github.com/aws/aws-security-services-best-practices) - 
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that enables creating web based metrics dashboard for k6
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
@@ -389,6 +391,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [graphql/graphql-wg](https://github.com/graphql/graphql-wg) - Working group notes for GraphQL
 - [tim-kos/node-retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.
 - [grafana/k6-learn](https://github.com/grafana/k6-learn) - 
@@ -630,6 +633,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [aws-samples/aws-ml-enablement-workshop](https://github.com/aws-samples/aws-ml-enablement-workshop) - 組織横断的にチームを組成し、機械学習による成長サイクルを実現する計画を立てるワークショップ
 - [takashi-uchida/learn-aws-by-coding](https://github.com/takashi-uchida/learn-aws-by-coding) - コードで学ぶAWS入門
@@ -701,6 +705,7 @@
 
 ## Others 
 
+- [adr/adr.github.io](https://github.com/adr/adr.github.io) - Homepage of the ADR GitHub organization
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
@@ -808,6 +813,7 @@
 
 ## Python 
 
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [t-tani/pac2-dev](https://github.com/t-tani/pac2-dev) - PowerAutomate C2 Framework
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
@@ -922,6 +928,7 @@
 
 ## Rust 
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
@@ -1011,6 +1018,7 @@
 
 ## Shell 
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories

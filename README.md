@@ -616,7 +616,7 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [hirokidaichi/watch-then](https://github.com/hirokidaichi/watch-then) - do something when a file modified
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
@@ -1089,6 +1089,8 @@
 
 ## TypeScript 
 
+- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude 2
+- [aws-samples/simple-lex-kendra-jp](https://github.com/aws-samples/simple-lex-kendra-jp) - 日本語に最適化されたシンプルな Amazon Lex v2 と Amazon Kendra のサンプルプロジェクトです。
 - [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
 - [AlexSim93/pull-request-analytics-action](https://github.com/AlexSim93/pull-request-analytics-action) - Generates detailed PR analytics reports within GitHub, focusing on review efficiency and team performance.
 - [07JP27/azureopenai-internal-microsoft-search](https://github.com/07JP27/azureopenai-internal-microsoft-search) - 

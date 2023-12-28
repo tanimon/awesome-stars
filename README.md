@@ -1118,7 +1118,7 @@
 - [takker99/takker-scheduler](https://github.com/takker99/takker-scheduler) - Schedule management app running on Scrapbox
 - [vim-skk/skkeleton](https://github.com/vim-skk/skkeleton) - SKK implements for Vim/Neovim with denops.vim
 - [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
-- [sqids/sqids-javascript](https://github.com/sqids/sqids-javascript) - Official JavaScript port of Sqids. Generate short YouTube-looking IDs from numbers.
+- [sqids/sqids-javascript](https://github.com/sqids/sqids-javascript) - Official JavaScript port of Sqids. Generate short unique IDs from numbers.
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [tomoki10/cdk-best-design-2023](https://github.com/tomoki10/cdk-best-design-2023) - DevIO 2023用のCDKサンプルです
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡

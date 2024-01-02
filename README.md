@@ -394,6 +394,7 @@
 
 ## JavaScript 
 
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph) - A DOM-merging algorithm
 - [graphql/graphql-wg](https://github.com/graphql/graphql-wg) - Working group notes for GraphQL
 - [tim-kos/node-retry](https://github.com/tim-kos/node-retry) - Abstraction for exponential and custom retry strategies for failed operations.

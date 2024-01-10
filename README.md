@@ -477,7 +477,7 @@
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
 - [kevva/url-regex](https://github.com/kevva/url-regex) - Regular expression for matching URLs
 - [sindresorhus/get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [aws-samples/ask-around-me](https://github.com/aws-samples/ask-around-me) - The Ask Around Me example serverless web application. See the Compute Blog series and video series for more information. Contact @jbesw for info.
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [knowledge-work/eslint-plugin-strict-dependencies](https://github.com/knowledge-work/eslint-plugin-strict-dependencies) - ESlint plugin to define custom module dependency rules.
@@ -837,7 +837,7 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [google/budoux](https://github.com/google/budoux) - 
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a platform for open source maintainers to get better funding
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar is a creator platform for developers. Let's fix open source funding!
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -920,6 +920,7 @@
 
 ## Ruby 
 
+- [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [stelligent/cfn_nag](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -1025,6 +1026,7 @@
 
 ## SCSS 
 
+- [asciidoctor/asciidoctor.org](https://github.com/asciidoctor/asciidoctor.org) - :globe_with_meridians: Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.
 - [parsonsmatt/parsonsmatt.github.io](https://github.com/parsonsmatt/parsonsmatt.github.io) - My Github pages website
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [bliki-ja/bliki-ja.github.io](https://github.com/bliki-ja/bliki-ja.github.io) - 

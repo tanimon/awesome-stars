@@ -70,7 +70,7 @@
 
 ## Astro 
 
-- [yuheiy/sdenv](https://github.com/yuheiy/sdenv) - ウェブアプリケーションではないウェブサイトを開発するためのベストプラクティスに基づいて構成されたフロントエンド開発環境
+- [yuheiy/sdenv](https://github.com/yuheiy/sdenv) - ウェブサイト（not ウェブアプリケーション）のために構成された、フロントエンド開発のスターターキット
 
 ## AutoHotkey 
 
@@ -229,7 +229,7 @@
 
 ## Go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [zoncoen/scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati

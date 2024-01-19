@@ -332,7 +332,7 @@
 
 - [tokyotech-llm/tokyotech-llm.github.io](https://github.com/tokyotech-llm/tokyotech-llm.github.io) - GitHub Pages
 - [aws/aws-security-services-best-practices](https://github.com/aws/aws-security-services-best-practices) - 
-- [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that that makes k6 metrics available on a web-based dashboard.
+- [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
 - [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
 - [testplanisphere/hotel-example-site](https://github.com/testplanisphere/hotel-example-site) - Sandbox website for learning test automation (hotel reservation)
@@ -643,6 +643,7 @@
 
 ## Jupyter Notebook 
 
+- [oreilly-japan/deep-learning-from-scratch-5](https://github.com/oreilly-japan/deep-learning-from-scratch-5) - 
 - [chokkan/python](https://github.com/chokkan/python) - Python早見帳
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - An Easy-to-use Knowledge Editing Framework for LLMs.
@@ -719,6 +720,7 @@
 
 ## Others 
 
+- [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -833,6 +835,11 @@
 
 ## Python 
 
+- [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
+- [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - LLMCompiler: An LLM Compiler for Parallel Function Calling
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
@@ -1196,7 +1203,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [reduxjs/redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [imgly-labs/background-removal-js](https://github.com/imgly-labs/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature
 - [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.

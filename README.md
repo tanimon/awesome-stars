@@ -71,7 +71,7 @@
 
 ## Astro 
 
-- [yuheiy/sdenv](https://github.com/yuheiy/sdenv) - ウェブサイト（not ウェブアプリケーション）のために構成された、フロントエンド開発のスターターキット
+- [yuheiy/sdenv](https://github.com/yuheiy/sdenv) - ウェブサイト（not ウェブアプリケーション）開発のためのフロントエンドスターターキット
 
 ## AutoHotkey 
 
@@ -836,6 +836,8 @@
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit-example](https://github.com/streamlit/streamlit-example) - Example Streamlit app that you can fork to test out share.streamlit.io
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)

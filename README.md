@@ -1147,6 +1147,7 @@
 
 ## TypeScript 
 
+- [awslabs/data-solutions-framework-on-aws](https://github.com/awslabs/data-solutions-framework-on-aws) - An open-source framework that simplifies implementation of data solutions.
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.

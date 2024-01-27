@@ -398,6 +398,7 @@
 
 ## JavaScript 
 
+- [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
 - [aws-samples/simple-websockets-chat-app](https://github.com/aws-samples/simple-websockets-chat-app) - This SAM application provides the Lambda functions, DynamoDB table, and roles to allow you to build a simple chat application based on API Gateway's new WebSocket-based API feature.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -837,6 +838,8 @@
 
 ## Python 
 
+- [xeger/awsume-1password-plugin](https://github.com/xeger/awsume-1password-plugin) - Automates awsume MFA entry via 1Password CLI.
+- [trek10inc/awsume-console-plugin](https://github.com/trek10inc/awsume-console-plugin) - This is a plugin that enables you to use your assumed role credentials to open the AWS console in your default browser.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [streamlit/streamlit-example](https://github.com/streamlit/streamlit-example) - Example Streamlit app that you can fork to test out share.streamlit.io
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
@@ -980,6 +983,7 @@
 
 ## Rust 
 
+- [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare's Rust service foundations library.
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust

@@ -1591,7 +1591,7 @@
 
 ## WebAssembly 
 
-- [Mewz-project/Wasker](https://github.com/Mewz-project/Wasker) - Wasm compiler for running Wasm on your favorite kernel
+- [mewz-project/wasker](https://github.com/mewz-project/wasker) - Wasm compiler for running Wasm on your favorite kernel
 
 ## YARA 
 
@@ -1599,7 +1599,7 @@
 
 ## Zig 
 
-- [Mewz-project/Mewz](https://github.com/Mewz-project/Mewz) - A unikernel designed specifically for running Wasm applications and compatible with WASI
+- [mewz-project/mewz](https://github.com/mewz-project/mewz) - A unikernel designed specifically for running Wasm applications and compatible with WASI
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 

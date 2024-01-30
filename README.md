@@ -838,6 +838,7 @@
 
 ## Python 
 
+- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [xeger/awsume-1password-plugin](https://github.com/xeger/awsume-1password-plugin) - Automates awsume MFA entry via 1Password CLI.
 - [trek10inc/awsume-console-plugin](https://github.com/trek10inc/awsume-console-plugin) - This is a plugin that enables you to use your assumed role credentials to open the AWS console in your default browser.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.

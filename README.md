@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [zoncoen/scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -723,6 +724,7 @@
 
 ## Others 
 
+- [rinatz/python-book](https://github.com/rinatz/python-book) - ゼロから学ぶ Python
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -838,6 +840,7 @@
 
 ## Python 
 
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [xeger/awsume-1password-plugin](https://github.com/xeger/awsume-1password-plugin) - Automates awsume MFA entry via 1Password CLI.
 - [trek10inc/awsume-console-plugin](https://github.com/trek10inc/awsume-console-plugin) - This is a plugin that enables you to use your assumed role credentials to open the AWS console in your default browser.

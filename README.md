@@ -399,6 +399,7 @@
 
 ## JavaScript 
 
+- [just-js/lo](https://github.com/just-js/lo) - it's JavaScript Jim, but not as we know it. :space_invader:
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
 - [aws-samples/simple-websockets-chat-app](https://github.com/aws-samples/simple-websockets-chat-app) - This SAM application provides the Lambda functions, DynamoDB table, and roles to allow you to build a simple chat application based on API Gateway's new WebSocket-based API feature.
@@ -602,7 +603,6 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [KeithHenry/chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) - Promise wrapper for the Chrome extension API so that it can be used with async/await rather than callbacks
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -724,6 +724,7 @@
 
 ## Others 
 
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [rinatz/python-book](https://github.com/rinatz/python-book) - ゼロから学ぶ Python
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -812,6 +813,7 @@
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [fork-dev/Tracker](https://github.com/fork-dev/Tracker) - Bug and issue tracker for Fork for Mac
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [oam-dev/spec](https://github.com/oam-dev/spec) - Open Application Model (OAM).
@@ -987,6 +989,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [cloudflare/foundations](https://github.com/cloudflare/foundations) - Cloudflare's Rust service foundations library.
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [lancedb/lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckD
@@ -1166,7 +1169,7 @@
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [IssueHunt/Kowaseru](https://github.com/IssueHunt/Kowaseru) - A vulnerable server to practice pen testing.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.

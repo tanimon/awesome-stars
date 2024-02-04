@@ -90,7 +90,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
@@ -725,6 +725,7 @@
 
 ## Others 
 
+- [HuskyInSalt/CRAG](https://github.com/HuskyInSalt/CRAG) - Corrective Retrieval Augmented Generation
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [rinatz/python-book](https://github.com/rinatz/python-book) - ゼロから学ぶ Python
 - [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
@@ -1210,7 +1211,7 @@
 - [cmoog/vscode-sql-notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files as VSCode Notebooks.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [mattallty/jest-github-action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments
-- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
+- [winglang/wing](https://github.com/winglang/wing) - 🔥 A programming language for the cloud - A unified programming model, combining infrastructure and runtime code into one language  🚀🚀
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript, like Cake Pattern
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript

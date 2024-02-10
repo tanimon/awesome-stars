@@ -345,6 +345,7 @@
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -400,6 +401,7 @@
 
 ## JavaScript 
 
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [just-js/lo](https://github.com/just-js/lo) - it's JavaScript Jim, but not as we know it. :space_invader:
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
@@ -1163,6 +1165,7 @@
 
 ## TypeScript 
 
+- [honojs/honox](https://github.com/honojs/honox) - HonoX
 - [awslabs/data-solutions-framework-on-aws](https://github.com/awslabs/data-solutions-framework-on-aws) - An open-source framework that simplifies implementation of data solutions.
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
@@ -1401,7 +1404,6 @@
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [unboundedsystems/adapt](https://github.com/unboundedsystems/adapt) - ReactJS for your infrastructure. Create and deploy full-stack apps to any infrastructure using the power of React.
 - [graphql-rules/graphql-rules](https://github.com/graphql-rules/graphql-rules) - GraphQL Rules
-- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [cm-tanaka-keisuke/developersio-cdk](https://github.com/cm-tanaka-keisuke/developersio-cdk) - 
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [pansimey/monorepo-sandbox](https://github.com/pansimey/monorepo-sandbox) - 

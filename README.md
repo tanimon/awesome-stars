@@ -373,6 +373,7 @@
 
 ## Java 
 
+- [awslabs/amazon-dynamodb-lock-client](https://github.com/awslabs/amazon-dynamodb-lock-client) - The AmazonDynamoDBLockClient is a general purpose distributed locking library built on top of DynamoDB. It supports both coarse-grained and fine-grained locking.
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [spockframework/spock](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 - [nrslib/itddd-java](https://github.com/nrslib/itddd-java) - 
@@ -728,6 +729,7 @@
 
 ## Others 
 
+- [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [rinatz/python-book](https://github.com/rinatz/python-book) - ゼロから学ぶ Python

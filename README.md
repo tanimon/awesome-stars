@@ -868,7 +868,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [microsoft/UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
 - [davified/ide-productivity](https://github.com/davified/ide-productivity) - 
-- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The Open-Source LLM Evaluation Framework
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [davidtan-tw/testing-llms-demo](https://github.com/davidtan-tw/testing-llms-demo) - A demo with examples on how to write automated tests (LLM-based tests) for LLM applications.
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP を合成したプログラミング向けフォントです。

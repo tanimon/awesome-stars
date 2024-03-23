@@ -653,6 +653,9 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
+- [whylabs/langkit](https://github.com/whylabs/langkit) - 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metr
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [aai-institute/beyond-jupyter](https://github.com/aai-institute/beyond-jupyter) - Software design principles for machine learning applications
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [pluralitybook/plurality](https://github.com/pluralitybook/plurality) - Root repository for ⿻數位 Plurality: The Future of Collaborative Technology and Democracy by E. Glen Weyl, Audrey Tang and the Plurality Community
@@ -853,6 +856,11 @@
 
 ## Python 
 
+- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - Auto-Instrumentation for AI Observability
+- [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Evaluation, testing & monitoring framework for LLMs and ML models
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and model
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
@@ -1037,6 +1045,7 @@
 
 ## Rust 
 
+- [worldcoin/orb-software](https://github.com/worldcoin/orb-software) - Software for the orb
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [moonrepo/proto](https://github.com/moonrepo/proto) - A pluggable multi-language version manager.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1217,6 +1226,9 @@
 
 ## TypeScript 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+- [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
+- [dokulabs/doku](https://github.com/dokulabs/doku) - 🚀 Open-source platform for evaluating and monitoring LLMs. Integrates with OpenAI, Cohere and Anthropic with stable SDKs in Python and Javascript.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing -- 🍊YC W23 🤖 integrate via Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents

@@ -878,7 +878,7 @@
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - Auto-Instrumentation for AI Observability
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Evaluation & Testing framework for LLMs and ML models
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing framework for LLMs and ML models
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and model
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into o

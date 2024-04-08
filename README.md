@@ -343,6 +343,7 @@
 - [tokyotech-llm/tokyotech-llm.github.io](https://github.com/tokyotech-llm/tokyotech-llm.github.io) - GitHub Pages
 - [aws/aws-security-services-best-practices](https://github.com/aws/aws-security-services-best-practices) - 
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
+- [tc39/proposal-iterator.range](https://github.com/tc39/proposal-iterator.range) - A proposal for ECMAScript to add a built-in Iterator.range()
 - [tc39/proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Declarations
 - [aws/aws-appsync-community](https://github.com/aws/aws-appsync-community) - The AWS AppSync community
 - [testplanisphere/hotel-example-site](https://github.com/testplanisphere/hotel-example-site) - Sandbox website for learning test automation (hotel reservation)
@@ -431,7 +432,6 @@
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [code4fukui/HEIC](https://github.com/code4fukui/HEIC) - 
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
-- [tc39/proposal-iterator.range](https://github.com/tc39/proposal-iterator.range) - A proposal for ECMAScript to add a built-in Iterator.range()
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [cybozu/eslint-config](https://github.com/cybozu/eslint-config) - ESLint rules for Cybozu

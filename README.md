@@ -178,6 +178,7 @@
 - [aprxi/letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [joy-of-react/project-wordle](https://github.com/joy-of-react/project-wordle) - 
+- [gunners6518/Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
 - [mgmeyers/obsidian-california-coast-theme](https://github.com/mgmeyers/obsidian-california-coast-theme) - A minimalist obsidian theme inspired by macOS Big Sur
 - [iconic/open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [Renovamen/blog.zxh.io](https://github.com/Renovamen/blog.zxh.io) - My blog 🧐, powered by VuePress 2, themed by Gungnir.
@@ -1271,7 +1272,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
@@ -1444,7 +1445,6 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [ruizb/domain-modeling-ts](https://github.com/ruizb/domain-modeling-ts) - Domain modeling in TypeScript, using `fp-ts` ecosystem.
-- [gunners6518/Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
 - [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 - [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basi
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.

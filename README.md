@@ -403,7 +403,7 @@
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [vrapper/vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
 - [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-18 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
 - [JnRouvignac/AutoRefactor](https://github.com/JnRouvignac/AutoRefactor) - Eclipse plugin to automatically refactor Java code bases
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.

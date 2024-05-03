@@ -50,6 +50,7 @@
 - [Python](#python)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -268,7 +269,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - An open source Authentication and User Management platform for B2B and B2C.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open Source Authentication and User Management Platform with Passkey Superpowers.
 - [classmethod/aurl](https://github.com/classmethod/aurl) - Command line utility to make HTTP request with OAuth2
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -943,12 +944,12 @@
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
-- [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - LLMCompiler: An LLM Compiler for Parallel Function Calling
+- [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Building persistent LLM agents with long-term memory 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
@@ -1048,6 +1049,10 @@
 
 - [langchain-ai/langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
+
+## Roff 
+
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
@@ -1267,6 +1272,7 @@
 
 ## TypeScript 
 
+- [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples and guides for using the E2B API
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models wit
@@ -1289,7 +1295,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [kuuote/dotvim](https://github.com/kuuote/dotvim) - ぼくのかんがえたさいきょうのびむせってい
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!

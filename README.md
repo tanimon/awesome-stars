@@ -874,6 +874,7 @@
 
 ## Python 
 
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - An intuitive approach to building with LLMs
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.

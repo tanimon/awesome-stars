@@ -403,7 +403,7 @@
 - [selenide/selenide](https://github.com/selenide/selenide) - Concise UI Tests with Java!
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [vrapper/vrapper](https://github.com/vrapper/vrapper) - Vim-like editing in Eclipse
-- [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations
+- [TheElectronWill/night-config](https://github.com/TheElectronWill/night-config) - Powerful java configuration library for toml, yaml, hocon, json and in-memory configurations. Serialization/deserialization framework.
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-18 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [randoop/randoop](https://github.com/randoop/randoop) - Automatic test generation for Java
 - [JnRouvignac/AutoRefactor](https://github.com/JnRouvignac/AutoRefactor) - Eclipse plugin to automatically refactor Java code bases
@@ -660,6 +660,7 @@
 
 ## Jupyter Notebook 
 
+- [aws-samples/text-to-sql-for-athena](https://github.com/aws-samples/text-to-sql-for-athena) - 
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
@@ -1277,6 +1278,7 @@
 
 ## TypeScript 
 
+- [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples and guides for using the E2B API
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec

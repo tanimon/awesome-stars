@@ -343,6 +343,7 @@
 
 ## HTML 
 
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [tokyotech-llm/tokyotech-llm.github.io](https://github.com/tokyotech-llm/tokyotech-llm.github.io) - GitHub Pages
 - [aws/aws-security-services-best-practices](https://github.com/aws/aws-security-services-best-practices) - 
 - [grafana/xk6-dashboard](https://github.com/grafana/xk6-dashboard) - A k6 extension that makes k6 metrics available on a web-based dashboard.
@@ -1280,6 +1281,7 @@
 
 ## TypeScript 
 
+- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples and guides for using the E2B API

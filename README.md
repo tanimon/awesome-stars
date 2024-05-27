@@ -59,6 +59,7 @@
 - [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -83,7 +84,7 @@
 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
-- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
@@ -210,6 +211,7 @@
 
 ## Dockerfile 
 
+- [FranzDiebold/jawsume](https://github.com/FranzDiebold/jawsume) - Use AWSume in Jupyter.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## EJS 
@@ -1023,7 +1025,7 @@
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo) - Deployment scripts & config for Sock Shop
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
-- [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
+- [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -1272,6 +1274,10 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [lysyi3m/macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes) - Color schemes for default macOS Terminal.app
 - [NMAC427/SwiftOCR](https://github.com/NMAC427/SwiftOCR) - Fast and simple OCR library written in Swift
+
+## TSQL 
+
+- [lerocha/chinook-database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
 
 ## Tcl 
 

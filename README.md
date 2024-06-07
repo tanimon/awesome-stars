@@ -984,7 +984,6 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [yuhattor/copilot-patterns](https://github.com/yuhattor/copilot-patterns) - This document is a compilation of best practices for AI-Native development, curated by our community. Discover useful tips and tricks for leveraging tools to improve your AI development process.
 - [google/budoux](https://github.com/google/budoux) - 
-- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [Azure-Samples/jp-azureopenai-samples](https://github.com/Azure-Samples/jp-azureopenai-samples) - 
@@ -1384,6 +1383,7 @@
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [mattallty/jest-github-action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [polarsource/polar](https://github.com/polarsource/polar) - From first donation to IPO. Polar is the funding & monetization platform for developers.
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [susisu/hokemi](https://github.com/susisu/hokemi) - Minimal type-safe dependency injection framework for TypeScript, like Cake Pattern
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript

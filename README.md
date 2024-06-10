@@ -885,6 +885,11 @@
 
 ## Python 
 
+- [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats
+- [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping) - Automatically add simple type annotations to your code
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+- [tedder/requests-aws4auth](https://github.com/tedder/requests-aws4auth) - Amazon Web Services version 4 authentication for the Python Requests module
+- [youtype/mypy_boto3_builder](https://github.com/youtype/mypy_boto3_builder) - Type annotations builder for boto3 compatible with VSCode, PyCharm, Emacs, Sublime Text, pyright and mypy.
 - [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws) - Build LangChain Applications on AWS
 - [llm-jp/llm-jp-eval](https://github.com/llm-jp/llm-jp-eval) - 
 - [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.

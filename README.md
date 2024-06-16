@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
+- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -79,6 +80,10 @@
 ## AutoHotkey 
 
 - [karakaram/alt-ime-ahk](https://github.com/karakaram/alt-ime-ahk) - 
+
+## Bicep 
+
+- [Azure-Samples/langfuse-on-azure](https://github.com/Azure-Samples/langfuse-on-azure) - An easy way to deploy the Langfuse observability platform to Azure Container Apps with Entra authentication.
 
 ## C 
 
@@ -239,6 +244,7 @@
 
 ## Go 
 
+- [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure powering E2B - Secure Runtime for AI Agents & Apps
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1310,6 +1316,7 @@
 
 ## TypeScript 
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [whitphx/stlite](https://github.com/whitphx/stlite) - Serverless Streamlit 🎈🚀

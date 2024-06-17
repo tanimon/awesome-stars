@@ -792,7 +792,6 @@
 - [grafana/awesome-k6](https://github.com/grafana/awesome-k6) - A curated list of awesome tools, content and projects using k6
 - [agile-samurai-ja/support](https://github.com/agile-samurai-ja/support) - 『アジャイルサムライ』のサポートページです
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
-- [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) - A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
@@ -1393,6 +1392,7 @@
 - [RefactoringGuru/design-patterns-typescript](https://github.com/RefactoringGuru/design-patterns-typescript) - Design Pattern Examples in TypeScript
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [sam-goodwin/typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API

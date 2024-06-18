@@ -892,6 +892,7 @@
 
 ## Python 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [google/mesop](https://github.com/google/mesop) - 
 - [python-poetry/poetry-plugin-export](https://github.com/python-poetry/poetry-plugin-export) - Poetry plugin to export the dependencies to various formats

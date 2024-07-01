@@ -1696,7 +1696,6 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [interledgerjs/interledgerjs](https://github.com/interledgerjs/interledgerjs) - Interledger.js Monorepo
-- [ssvlabs/blox-live](https://github.com/ssvlabs/blox-live) - 
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [manyuanrong/sql-builder](https://github.com/manyuanrong/sql-builder) - SQL query builder for Deno
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text

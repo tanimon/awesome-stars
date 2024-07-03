@@ -245,6 +245,7 @@
 
 ## Go 
 
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
@@ -587,7 +588,7 @@
 - [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost) - A starter template to build lightning fast websites with Ghost & Gatsby
 - [catnose99/CatKnows](https://github.com/catnose99/CatKnows) - Personal blog powered by Gatsby.js.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
-- [ytanaka-/menthas](https://github.com/ytanaka-/menthas) - Menthas: Curated News Reader For Hackers
+- [ytanaka-/menthas](https://github.com/ytanaka-/menthas) - Menthas: Curated News Reader For Japanese Programmers
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [LedgerHQ/ledger-live-desktop](https://github.com/LedgerHQ/ledger-live-desktop) - ⛔️ DEPRECATED - Ledger Live (Desktop)
 - [embokoir/savetoscrapbox](https://github.com/embokoir/savetoscrapbox) - Chrome Extension for Scrapbox : Save web page's title and url with tag!
@@ -1123,6 +1124,7 @@
 
 ## Rust 
 
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [bytecodealliance/wrpc](https://github.com/bytecodealliance/wrpc) - Wasm component-native RPC framework
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter

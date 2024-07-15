@@ -898,6 +898,7 @@
 
 ## Python 
 
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [ototadana/imgflw](https://github.com/ototadana/imgflw) - A demo application for image editing using LLM
 - [kturung/langgraph_streamlit_codeassistant](https://github.com/kturung/langgraph_streamlit_codeassistant) - 
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation

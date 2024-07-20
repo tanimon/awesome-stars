@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -247,6 +248,7 @@
 
 ## Go 
 
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1412,7 +1414,7 @@
 - [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude (+Mistral)
 - [aws-samples/simple-lex-kendra-jp](https://github.com/aws-samples/simple-lex-kendra-jp) - 日本語に最適化されたシンプルな Amazon Lex v2 と Amazon Kendra のサンプルプロジェクトです。
 - [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
-- [AlexSim93/pull-request-analytics-action](https://github.com/AlexSim93/pull-request-analytics-action) - Generates detailed PR analytics reports within GitHub, focusing on review efficiency and team performance.
+- [AlexSim93/pull-request-analytics-action](https://github.com/AlexSim93/pull-request-analytics-action) - Provides informative reports on team and developer metrics, based on data from pull requests and code reviews
 - [07JP27/azureopenai-internal-microsoft-search](https://github.com/07JP27/azureopenai-internal-microsoft-search) - 
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models

@@ -928,7 +928,7 @@
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - 🔮 SuperDuper: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalable 
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
@@ -1137,7 +1137,7 @@
 
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest, most efficient web crawler and scraper written in Rust. Maintained by @a11ywatch.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [bytecodealliance/wrpc](https://github.com/bytecodealliance/wrpc) - Wasm component-native RPC framework
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image

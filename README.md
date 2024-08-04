@@ -1366,7 +1366,7 @@
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, vulnerability scanning for LLMs. Improve your app's quality and catch problems. Compare performance of GPT, Claude, Gemini, Llama, and more
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command l
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [aws/aws-pdk](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti

@@ -1796,6 +1796,7 @@
 
 ## Vim Script 
 
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8

@@ -333,7 +333,7 @@
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [gammons/ultralist](https://github.com/gammons/ultralist) - Simple task management for tech folks.
 - [otiai10/gat](https://github.com/otiai10/gat) - Graphical cat. Render image on your terminal.
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [ecosia/go-beginners-workshop](https://github.com/ecosia/go-beginners-workshop) - Materials for go beginners workshop
 - [ecosia/lets-golang](https://github.com/ecosia/lets-golang) - 
 - [isucon/isucon9-final](https://github.com/isucon/isucon9-final) - ISUCON9 本戦問題
@@ -625,7 +625,7 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [orbitbot/chrome-extensions-examples](https://github.com/orbitbot/chrome-extensions-examples) - All Chrome Extension examples collected into one repository
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 - [dcchambers/vb4c](https://github.com/dcchambers/vb4c) - vb4c has been archived - please direct all conversation to the original cVim project page: https://github.com/1995eaton/chromium-vim
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol

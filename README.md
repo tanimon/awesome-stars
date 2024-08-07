@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [projectkudu/kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.
 - [Azure-Samples/azure-search-power-skills](https://github.com/Azure-Samples/azure-search-power-skills) - A collection of useful functions to be deployed as custom skills for Azure Cognitive Search
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -283,7 +284,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system optimized for passkeys
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [classmethod/aurl](https://github.com/classmethod/aurl) - Command line utility to make HTTP request with OAuth2
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -1135,6 +1136,7 @@
 
 ## Rust 
 
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest, most efficient web crawler and scraper written in Rust. Maintained by @a11ywatch.
@@ -1768,7 +1770,7 @@
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [meetalva/alva](https://github.com/meetalva/alva) - Create living prototypes with code components.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation

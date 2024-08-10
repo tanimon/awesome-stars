@@ -230,7 +230,7 @@
 
 ## Emacs Lisp 
 
-- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題と絵文字の横幅問題の修正ロケール
+- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題を解決するための修正ロケール
 
 ## Erlang 
 
@@ -430,6 +430,7 @@
 
 ## JavaScript 
 
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [ambilykk/copilot-usage-report](https://github.com/ambilykk/copilot-usage-report) - Export the Copilot for Business seat assignments for an organization that are currently being billed
@@ -682,7 +683,6 @@
 - [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) - 🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps
 - [aws-samples/aws-ml-jp](https://github.com/aws-samples/aws-ml-jp) - SageMakerで機械学習モデルを構築、学習、デプロイする方法が学べるNotebookと教材集
 - [aws-samples/text-to-sql-for-athena](https://github.com/aws-samples/text-to-sql-for-athena) - 
-- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -928,6 +928,7 @@
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -948,7 +949,7 @@
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy (Gateway) to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate

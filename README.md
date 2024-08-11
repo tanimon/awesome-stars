@@ -347,7 +347,7 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [tkuchiki/alp](https://github.com/tkuchiki/alp) - Access Log Profiler
 - [matsuu/kataribe](https://github.com/matsuu/kataribe) - Access log profiler based on response time
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
 
 ## Groovy 
 
@@ -695,7 +695,7 @@
 - [oreilly-japan/deep-learning-from-scratch-5](https://github.com/oreilly-japan/deep-learning-from-scratch-5) - 『ゼロから作る Deep Learning ❺』(O'Reilly Japan, 2024)
 - [chokkan/python](https://github.com/chokkan/python) - Python早見帳
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
-- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [知识编辑] [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
+- [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [aws-samples/aws-ml-enablement-workshop](https://github.com/aws-samples/aws-ml-enablement-workshop) - 組織横断的にチームを組成し、機械学習による成長サイクルを実現する計画を立てるワークショップ
@@ -949,7 +949,7 @@
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy (Gateway) to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
@@ -1370,7 +1370,7 @@
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, AI-first alternative to Jira, Linear
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Redteaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command l
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command 
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [aws/aws-pdk](https://github.com/aws/aws-pdk) - The AWS PDK provides building blocks for common patterns together with development tools to manage and build your projects.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -1390,7 +1390,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [kuuote/dotvim](https://github.com/kuuote/dotvim) - ぼくのかんがえたさいきょうのびむせってい
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
 - [google/aside](https://github.com/google/aside) - 🚀 Apps Script development with formatting, linting, testing and more!

@@ -394,6 +394,7 @@
 
 ## Haskell 
 
+- [kazu-yamamoto/dnsext](https://github.com/kazu-yamamoto/dnsext) - Extensible DNS libraries written purely in Haskell
 - [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) - The Plutus language implementation and tools
 - [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) - The core component that is used to participate in a Cardano decentralised blockchain.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1348,6 +1349,7 @@
 
 ## TypeScript 
 
+- [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [PacktPublishing/React-Application-Architecture-for-Production](https://github.com/PacktPublishing/React-Application-Architecture-for-Production) - React Application Architecture for Production, published by Packt
 - [ryoppippi/unplugin-typia](https://github.com/ryoppippi/unplugin-typia) - unplugin for Typia with an extra Bun plugin 🫶
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation

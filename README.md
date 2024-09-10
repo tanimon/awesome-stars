@@ -948,7 +948,7 @@
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability

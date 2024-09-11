@@ -19,7 +19,6 @@
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Elm](#elm)
-- [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [F#](#f#)
 - [Go](#go)
@@ -228,10 +227,6 @@
 ## Elm 
 
 - [arowM/elm-form-decoder](https://github.com/arowM/elm-form-decoder) - Scalable way to decode user inputs into neat structure.
-
-## Emacs Lisp 
-
-- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題を解決するための修正ロケール
 
 ## Erlang 
 
@@ -683,6 +678,7 @@
 
 ## Jupyter Notebook 
 
+- [Azure/azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 - [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) - 🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps
 - [aws-samples/aws-ml-jp](https://github.com/aws-samples/aws-ml-jp) - SageMakerで機械学習モデルを構築、学習、デプロイする方法が学べるNotebookと教材集
 - [aws-samples/text-to-sql-for-athena](https://github.com/aws-samples/text-to-sql-for-athena) - 
@@ -1074,6 +1070,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
+- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題を解決するための修正ロケール
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️

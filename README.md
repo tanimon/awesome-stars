@@ -909,7 +909,7 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [ototadana/imgflw](https://github.com/ototadana/imgflw) - A demo application for image editing using LLM
 - [kturung/langgraph_streamlit_codeassistant](https://github.com/kturung/langgraph_streamlit_codeassistant) - 
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [turingmotors/heron](https://github.com/turingmotors/heron) - 
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
@@ -1070,7 +1070,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
-- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題を解決するための修正ロケール
+- [hamano/locale-eaw](https://github.com/hamano/locale-eaw) - East Asian Ambiguous Width問題のための修正ロケール
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️

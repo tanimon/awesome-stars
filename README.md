@@ -779,6 +779,7 @@
 
 ## Others 
 
+- [kbilsted/Functional-core-imperative-shell](https://github.com/kbilsted/Functional-core-imperative-shell) - Functional core imperative shell
 - [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app) - Rapid prototyping of web apps using plain english 👶🤖
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources

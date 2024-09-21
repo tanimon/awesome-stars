@@ -352,6 +352,7 @@
 
 ## HCL 
 
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [BishopFox/iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) - Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.
 
 ## HTML 
@@ -457,7 +458,7 @@
 - [tywalch/electrodb](https://github.com/tywalch/electrodb) - A DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.
 - [stripe-samples/accept-a-payment](https://github.com/stripe-samples/accept-a-payment) - Learn how to accept a payment from customers around the world with a variety of payment methods.
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [code4fukui/HEIC](https://github.com/code4fukui/HEIC) - 
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
@@ -959,7 +960,7 @@
 - [huggingface/lighteval](https://github.com/huggingface/lighteval) - LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [run-llama/llama-lab](https://github.com/run-llama/llama-lab) - 
@@ -1148,6 +1149,7 @@
 
 ## Rust 
 
+- [dmexe/failsafe-rs](https://github.com/dmexe/failsafe-rs) - A circuit breaker implementation for rust
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [azzamsa/zman](https://github.com/azzamsa/zman) - A time progress bar utilities
@@ -1204,7 +1206,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The future of APIs
+- [grafbase/grafbase](https://github.com/grafbase/grafbase) - The GraphQL Federation platform
 - [vinted/elasticsearch-dsl-rs](https://github.com/vinted/elasticsearch-dsl-rs) - Strongly typed Elasticsearch DSL written in Rust
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
@@ -1358,6 +1360,7 @@
 
 ## TypeScript 
 
+- [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [PacktPublishing/React-Application-Architecture-for-Production](https://github.com/PacktPublishing/React-Application-Architecture-for-Production) - React Application Architecture for Production, published by Packt

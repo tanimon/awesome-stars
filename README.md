@@ -98,7 +98,6 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
@@ -166,6 +165,7 @@
 - [airbnb/node-memwatch](https://github.com/airbnb/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [marcominetti/node-memwatch](https://github.com/marcominetti/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [realm/realm-core](https://github.com/realm/realm-core) - Core database component for the Realm Mobile Database SDKs
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -570,7 +570,7 @@
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [tyrasd/togpx](https://github.com/tyrasd/togpx) - convert geojson to gpx
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -780,6 +780,7 @@
 
 ## Others 
 
+- [stripe/openapi](https://github.com/stripe/openapi) - An OpenAPI specification for the Stripe API.
 - [kbilsted/Functional-core-imperative-shell](https://github.com/kbilsted/Functional-core-imperative-shell) - Functional core imperative shell
 - [gpt-engineer-org/gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app) - Rapid prototyping of web apps using plain english 👶🤖
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
@@ -1282,7 +1283,7 @@
 
 - [moonbitlang/core](https://github.com/moonbitlang/core) - MoonBit's Core library
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -1360,6 +1361,7 @@
 
 ## TypeScript 
 
+- [line/liff-inspector](https://github.com/line/liff-inspector) - The universal DevTools for LIFF (WebView) browser
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [lahmatiy/react-render-tracker](https://github.com/lahmatiy/react-render-tracker) - React render tracker – a tool to discover performance issues related to unintentional re-renders and unmounts
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet

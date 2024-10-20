@@ -787,6 +787,7 @@
 
 ## Others 
 
+- [pact-foundation/roadmap](https://github.com/pact-foundation/roadmap) - Developer Relations @ Pact - Your map to the Pact landscape for all-comers (maintainers, contributors, users, newbies)
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [stripe/openapi](https://github.com/stripe/openapi) - An OpenAPI specification for the Stripe API.
 - [kbilsted/Functional-core-imperative-shell](https://github.com/kbilsted/Functional-core-imperative-shell) - Functional core imperative shell
@@ -1135,6 +1136,7 @@
 
 ## Ruby 
 
+- [pact-foundation/pact-ruby](https://github.com/pact-foundation/pact-ruby) - Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -1378,6 +1380,7 @@
 
 ## TypeScript 
 
+- [pactflow/pact-msw-adapter](https://github.com/pactflow/pact-msw-adapter) - Create MSW (mock-service-worker) mocks, and generate pact contracts from the recorded interactions.
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
@@ -1459,7 +1462,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [0no-co/gql.tada](https://github.com/0no-co/gql.tada) - 🪄 Magical GraphQL query engine for TypeScript
 - [IssueHunt/Kowaseru](https://github.com/IssueHunt/Kowaseru) - A vulnerable server to practice pen testing.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.

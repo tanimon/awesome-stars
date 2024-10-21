@@ -824,6 +824,7 @@
 - [aws-samples/amazon-dynamodb-design-patterns](https://github.com/aws-samples/amazon-dynamodb-design-patterns) - This repo contains sample data models to demonstrate design patterns for Amazon DynamoDB.
 - [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
 - [jaydenseric/graphql-multipart-request-spec](https://github.com/jaydenseric/graphql-multipart-request-spec) - A spec for GraphQL multipart form requests (file uploads).
 - [aws-events/aws-dev-day-tokyo-2023-cfp](https://github.com/aws-events/aws-dev-day-tokyo-2023-cfp) - 
@@ -1540,7 +1541,6 @@
 - [graphql-markdown/graphql-markdown](https://github.com/graphql-markdown/graphql-markdown) - Flexible GraphQL Documentation Generator (Markdown)
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
 - [kamilkisiela/graphql-config](https://github.com/kamilkisiela/graphql-config) - One configuration for all your GraphQL tools (supported by most tools, editors & IDEs)
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [mizchi/lizod](https://github.com/mizchi/lizod) - lightweight zod-like validator
 - [2fd/graphdoc](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project

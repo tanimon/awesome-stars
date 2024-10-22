@@ -787,6 +787,7 @@
 
 ## Others 
 
+- [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [pact-foundation/roadmap](https://github.com/pact-foundation/roadmap) - Developer Relations @ Pact - Your map to the Pact landscape for all-comers (maintainers, contributors, users, newbies)
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [stripe/openapi](https://github.com/stripe/openapi) - An OpenAPI specification for the Stripe API.
@@ -1024,7 +1025,7 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Letta (fka MemGPT) is a framework for creating stateful LLM services.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1381,6 +1382,7 @@
 
 ## TypeScript 
 
+- [markuplint/markuplint](https://github.com/markuplint/markuplint) - An HTML linter for all markup developers.
 - [pactflow/pact-msw-adapter](https://github.com/pactflow/pact-msw-adapter) - Create MSW (mock-service-worker) mocks, and generate pact contracts from the recorded interactions.
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1549,7 +1551,7 @@
 - [kawamataryo/suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add @ts-expect-errors to typescript type errors
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.

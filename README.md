@@ -249,6 +249,8 @@
 
 ## Go 
 
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [gin-gonic/examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin.
@@ -395,7 +397,7 @@
 - [efcl/efcl.github.io](https://github.com/efcl/efcl.github.io) - Web Scratchブログのリポジトリ
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [jsverse/variabless](https://github.com/jsverse/variabless) - JS & CSS - A Match Made in Heaven 💎
-- [embokoir/savetoscrapbox](https://github.com/embokoir/savetoscrapbox) - Chrome Extension for Scrapbox : Save web page's title and url with tag!
+- [embokoir/savetoscrapbox](https://github.com/embokoir/savetoscrapbox) - Handy extension for Cosense (formerly Scrapbox) users!
 - [aave/aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [The-Japan-DataScientist-Society/100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
@@ -450,6 +452,7 @@
 
 ## JavaScript 
 
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [obsidianmd/obsidian-developer-docs](https://github.com/obsidianmd/obsidian-developer-docs) - 
 - [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
@@ -467,7 +470,7 @@
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages with AI in 1 sec 🤯🔫
 - [just-js/lo](https://github.com/just-js/lo) - it's JavaScript Jim, but not as we know it. :space_invader:
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -695,7 +698,6 @@
 - [hirokidaichi/watch-then](https://github.com/hirokidaichi/watch-then) - do something when a file modified
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [violapub/viola](https://github.com/violapub/viola) - Online editor for printing and publishing
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 
 ## Julia 
@@ -723,7 +725,6 @@
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [oreilly-japan/deep-learning-from-scratch-5](https://github.com/oreilly-japan/deep-learning-from-scratch-5) - 『ゼロから作る Deep Learning ❺』(O'Reilly Japan, 2024)
 - [chokkan/python](https://github.com/chokkan/python) - Python早見帳
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [aws-samples/amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -937,6 +938,7 @@
 
 ## Python 
 
+- [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy-to-hack GraphRAG implementation
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
 - [yuru7/udev-gothic](https://github.com/yuru7/udev-gothic) - UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
 - [yuru7/Explex](https://github.com/yuru7/Explex) - Explex は、0xProto と、IBM Plex Sans JP を合成した、プログラミング向けフォントです。
@@ -946,7 +948,7 @@
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [braintrustdata/autoevals](https://github.com/braintrustdata/autoevals) - AutoEvals is a tool for quickly and easily evaluating AI model outputs using best practices.
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Make websites accessible for AI agents
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
@@ -1021,7 +1023,7 @@
 - [microsoft/table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evalu
 - [langchain-ai/langchain-benchmarks](https://github.com/langchain-ai/langchain-benchmarks) - 🦜💯 Flex those feathers!
 - [google-deepmind/opro](https://github.com/google-deepmind/opro) - official code for "Large Language Models as Optimizers"
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
@@ -1061,6 +1063,7 @@
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
@@ -1172,6 +1175,7 @@
 
 ## Ruby 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) - Human Essentials is an inventory management system for diaper, incontinence, and period-supply banks. It supports them in distributing to partners, tracking inventory, and reporting stats and analytic
@@ -1427,6 +1431,7 @@
 
 ## TypeScript 
 
+- [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more.
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.

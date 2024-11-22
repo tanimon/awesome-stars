@@ -527,7 +527,7 @@
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [mifi/react-lottie-player](https://github.com/mifi/react-lottie-player) - Fully declarative React Lottie player
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (In Maintenance Mode, End-of-Life on 09/08/2025). The AWS SDK for JavaScript v3 in the browser and Node.js is available here: https://github.com/aws/a
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [option-t/option-t](https://github.com/option-t/option-t) - A toolkit of Nullable/Option/Result type implementation in ECMAScript. Their APIs are inspired by Rust's `Option&lt;T&gt;` and `Result&lt;T, E&gt;`.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.

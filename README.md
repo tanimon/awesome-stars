@@ -277,7 +277,7 @@
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [bufbuild/knit](https://github.com/bufbuild/knit) - GraphQL-like capabilities to services using Protocol Buffers, gRPC, and Connect
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [zoncoen/scenarigo](https://github.com/zoncoen/scenarigo) - An end-to-end scenario testing tool for HTTP/gRPC server.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
@@ -976,7 +976,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2) - Python bindings to PDFium
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 - [andrei-shabanski/poetry-plugin-sort](https://github.com/andrei-shabanski/poetry-plugin-sort) - Poetry plugin to sort the dependencies
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [MousaZeidBaker/poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file

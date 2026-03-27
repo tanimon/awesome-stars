@@ -1662,7 +1662,7 @@
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [awslabs/dynein](https://github.com/awslabs/dynein) - DynamoDB CLI written in Rust.
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
+- [aws/aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
@@ -1861,7 +1861,7 @@
 - [owengretzinger/constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [mikekelly/claude-sneakpeek](https://github.com/mikekelly/claude-sneakpeek) - Get a parallel build of Claude code that unlocks feature-flagged capabilities like swarm mode.

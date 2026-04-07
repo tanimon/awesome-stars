@@ -1581,7 +1581,7 @@
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [traceloop/hub](https://github.com/traceloop/hub) - High-scale LLM gateway, written in Rust. OpenTelemetry-based observability included
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - High Performance GraphQL Runtime
@@ -1865,6 +1865,7 @@
 
 ## TypeScript 
 
+- [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -1873,7 +1874,7 @@
 - [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [owengretzinger/constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window.
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Office Compound Engineering plugin for Claude Code, Codex, and more
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, and more
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -1910,7 +1911,7 @@
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - The first AI butler you actually own.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your AI butler that get things done
 - [Flux159/mcp-chat](https://github.com/Flux159/mcp-chat) - Open Source Generic MCP Client for testing & evaluating mcp servers and agents
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
@@ -2038,7 +2039,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [Ledaryy/obsidian-todoist-completed-tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks) - Obsidian plugin to display the completed tasks
 - [srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal) - 
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.

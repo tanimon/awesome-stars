@@ -237,7 +237,7 @@
 ## Dart 
 
 - [AgoraIO-Community/VideoUIKit-Flutter](https://github.com/AgoraIO-Community/VideoUIKit-Flutter) - Flutter plugin to simply integrate Agora Video Calling or Live Video Streaming to your app with just a few lines of code.
-- [ymm-oss/flutter-training-template](https://github.com/ymm-oss/flutter-training-template) - 株式会社ゆめみ Flutter 研修
+- [ymm-oss/flutter-training-template](https://github.com/ymm-oss/flutter-training-template) - ゆめみ Flutter 研修
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -1061,7 +1061,6 @@
 - [nickbaumann98/cline_docs](https://github.com/nickbaumann98/cline_docs) - Documentation and best practices for using Cline
 - [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
 - [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnousterhout/aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code) - A discussion between John Ousterhout and Robert Martin about differences between John's book "A Philosophy of Software Design" and Bob's book "Clean Code".
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -1982,7 +1981,6 @@
 - [alioshr/memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) - A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank.
 - [t3ta/memory-bank-mcp-server](https://github.com/t3ta/memory-bank-mcp-server) - 
 - [ramidecodes/mcp-server-notion](https://github.com/ramidecodes/mcp-server-notion) - A Model Context Protocol server wrapping the official Notion SDK
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) - 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.

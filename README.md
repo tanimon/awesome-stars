@@ -288,6 +288,7 @@
 
 ## Go 
 
+- [agynio/gh-pr-review](https://github.com/agynio/gh-pr-review) - GitHub CLI extension that adds full inline PR review comment support — view, navigate, reply to, and resolve review threads directly from the terminal. LLM-ready and ideal for automated PR review agen
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -534,6 +535,7 @@
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 - [go-proverbs/go-proverbs.github.io](https://github.com/go-proverbs/go-proverbs.github.io) - Inspired by @rob_pike talk at Gopherfest SV 2015
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -924,7 +926,6 @@
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [whylabs/langkit](https://github.com/whylabs/langkit) - 🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metr
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [aai-institute/beyond-jupyter](https://github.com/aai-institute/beyond-jupyter) - Software design principles for machine learning applications
 - [mistralai/cookbook](https://github.com/mistralai/cookbook) - 
 - [pluralitybook/plurality](https://github.com/pluralitybook/plurality) - Root repository for ⿻數位 Plurality: The Future of Collaborative Technology and Democracy by E. Glen Weyl, Audrey Tang and the Plurality Community
@@ -1269,7 +1270,6 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [langchain-ai/agentevals](https://github.com/langchain-ai/agentevals) - Readymade evaluators for agent trajectories
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals) - Readymade evaluators for your LLM apps
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
@@ -1354,6 +1354,7 @@
 - [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) - Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and model
@@ -1557,6 +1558,7 @@
 
 ## Rust 
 
+- [arto-app/Arto](https://github.com/arto-app/Arto) - 🅰️ Arto — the Art of Reading Markdown.
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions

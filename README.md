@@ -358,6 +358,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
@@ -1261,7 +1262,6 @@
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
@@ -1922,7 +1922,7 @@
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) - 
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
-- [docfork/docfork](https://github.com/docfork/docfork) - Docfork - Up-to-date Docs for AI Agents.
+- [docfork/docfork](https://github.com/docfork/docfork) - Docfork - Context for AI Coding Agents.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [ardeois/graphql-codegen-typescript-mock-data](https://github.com/ardeois/graphql-codegen-typescript-mock-data) - [GraphQL Codegen Plugin](https://github.com/dotansimha/graphql-code-generator) for building mock data based on the schema.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents

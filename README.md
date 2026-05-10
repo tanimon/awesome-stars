@@ -125,7 +125,7 @@
 
 ## C# # 
 
-- [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme & wiki.
+- [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [projectkudu/kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.
@@ -599,7 +599,7 @@
 
 ## Java 
 
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - AWS Local Emulator
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation) - The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.
@@ -1040,6 +1040,7 @@
 
 ## Others 
 
+- [LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim) - A Vim-like configuration for Helix
 - [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) - 
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [deapi-ai/claude-code-skills](https://github.com/deapi-ai/claude-code-skills) - YouTube/audio transcription, image, video generation, AI voice (TTS) & OCR for Claude Code, Cursor & Windsurf. Up to 20x cheaper via deAPI.
@@ -1616,7 +1617,7 @@
 - [sorah/mairu](https://github.com/sorah/mairu) - On-memory AWS credentials agent and executor for IAM Identity Center (AWS SSO) and custom servers
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance, zero-copy URL router.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, dashboards, and advanced analytics.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [utooland/utoo](https://github.com/utooland/utoo) - A unified toolchain for web development
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.

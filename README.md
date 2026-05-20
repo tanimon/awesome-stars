@@ -418,7 +418,7 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [netobserv/netobserv-operator](https://github.com/netobserv/netobserv-operator) - A Kubernetes operator for network observability
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1615,7 +1615,7 @@
 - [sorah/mairu](https://github.com/sorah/mairu) - On-memory AWS credentials agent and executor for IAM Identity Center (AWS SSO) and custom servers
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance, zero-copy URL router.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dashboards, and agentic analytics.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [utooland/utoo](https://github.com/utooland/utoo) - A unified toolchain for web development
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.

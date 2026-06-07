@@ -94,7 +94,7 @@
 
 ## Blade 
 
-- [aarreedd/uuidtools.com](https://github.com/aarreedd/uuidtools.com) - Repository for UUIDTools.com... Create UUIDs on-the-fly
+- [th-alanreed/uuidtools.com](https://github.com/th-alanreed/uuidtools.com) - Repository for UUIDTools.com... Create UUIDs on-the-fly
 
 ## C 
 
@@ -2136,7 +2136,7 @@
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud

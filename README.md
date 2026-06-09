@@ -547,7 +547,6 @@
 - [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -1572,7 +1571,7 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1581,7 +1580,7 @@
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
-- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL and MongoDB manager TUI
@@ -1617,6 +1616,7 @@
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit) - A high performance, zero-copy URL router.
 - [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [utooland/utoo](https://github.com/utooland/utoo) - A unified toolchain for web development
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz

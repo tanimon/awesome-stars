@@ -275,6 +275,7 @@
 
 ## F# # 
 
+- [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
 - [yukitos/notes](https://github.com/yukitos/notes) - 
 - [swlaschin/DomainModelingMadeFunctional](https://github.com/swlaschin/DomainModelingMadeFunctional) - Extended code samples related to the book "Domain Modeling Made Functional". Buy the book here: https://pragprog.com/book/swdddf/domain-modeling-made-functional or here https://fsharpforfunandprofit.c
 
@@ -711,7 +712,6 @@
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [cybozu/eslint-config](https://github.com/cybozu/eslint-config) - ESLint rules for Cybozu
 - [eulerfx/DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - Event-Sourcing and Domain-Driven Design with F# and EventStore
-- [Thorium/SimpleCQRS-FSharp](https://github.com/Thorium/SimpleCQRS-FSharp) - Simple CQRS implemented with F#
 - [levibuzolic/eslint-plugin-no-only-tests](https://github.com/levibuzolic/eslint-plugin-no-only-tests) - ESLint rule for catching focused/only test blocks
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [js-primer/js-primer](https://github.com/js-primer/js-primer) - :book: JavaScript Primer - 迷わないための入門書
@@ -1298,7 +1298,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [lapras-inc/lapras-score-v2](https://github.com/lapras-inc/lapras-score-v2) - LAPRASの「技術力スコア」の算出ロジックの公開リポジトリです。 スコアに関するご意見や議論は、ぜひLAPRASユーザーコミュニティに投稿ください。
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build ag
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [toolhouseai/toolhouse-sdk-python](https://github.com/toolhouseai/toolhouse-sdk-python) - 
 - [gusye1234/nano-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy-to-hack GraphRAG implementation
@@ -1640,7 +1640,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [bytecodealliance/wrpc](https://github.com/bytecodealliance/wrpc) - Wasm component-native RPC framework
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
@@ -1859,7 +1859,7 @@
 
 ## Swift 
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 - [azooKey/azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) - azooKey-Desktop is an open-source Japanese input method for macOS, written in Swift and powered by the Zenzai neural kana-kanji converter. It provides live conversion, optional LLM-based “Magic Conver
 - [azooKey/azooKey](https://github.com/azooKey/azooKey) - azooKey is an open-source Japanese keyboard for iPhone and iPad, written in Swift and powered by its own kana-kanji conversion engine. It provides live conversion, flexible key layouts, and a clean Sw
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -1905,7 +1905,7 @@
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [affaan-m/agentshield](https://github.com/affaan-m/agentshield) - AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
@@ -2494,7 +2494,7 @@
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [manyuanrong/sql-builder](https://github.com/manyuanrong/sql-builder) - SQL query builder for Deno
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
+- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
 - [cedoor/mindmapp](https://github.com/cedoor/mindmapp) - :rocket: Web application to draw mind maps.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js

@@ -291,6 +291,7 @@
 
 ## Go 
 
+- [estie-inc/docker-vals](https://github.com/estie-inc/docker-vals) - Compose provider plugin: docker compose up pulls secrets from AWS, Vault, 1Password and 30+ backends via helmfile/vals. No .env files.
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
@@ -426,6 +427,7 @@
 - [netobserv/netobserv-operator](https://github.com/netobserv/netobserv-operator) - A Kubernetes operator for network observability
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1000,7 +1002,6 @@
 ## MDX 
 
 - [langfuse/langfuse-docs](https://github.com/langfuse/langfuse-docs) - 🪢 Langfuse documentation -- Langfuse is the open source LLM Engineering Platform. Observability, evals, prompt management, playground and metrics to debug and improve LLM apps
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -1324,7 +1325,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2) - Python bindings to PDFium, reasonably cross-platform.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [andrei-shabanski/poetry-plugin-sort](https://github.com/andrei-shabanski/poetry-plugin-sort) - Poetry plugin to sort the dependencies
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [mousabaker/poetry-plugin-up](https://github.com/mousabaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
@@ -1375,6 +1376,7 @@
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [athina-ai/athina-evals](https://github.com/athina-ai/athina-evals) - Python SDK for running evaluations on LLM generated responses
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
@@ -1486,7 +1488,7 @@
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1910,6 +1912,7 @@
 
 ## TypeScript 
 
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [haydenbleasel/blume](https://github.com/haydenbleasel/blume) - World-class docs for everything you ship. Fast, AI-ready, and zero-config.
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
@@ -2138,7 +2141,6 @@
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [PacktPublishing/React-Application-Architecture-for-Production](https://github.com/PacktPublishing/React-Application-Architecture-for-Production) - React Application Architecture for Production, published by Packt
 - [ryoppippi/unplugin-typia](https://github.com/ryoppippi/unplugin-typia) - unplugin for Typia with an extra Bun plugin 🫶
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -2171,7 +2173,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.

@@ -427,6 +427,7 @@
 - [netobserv/netobserv-operator](https://github.com/netobserv/netobserv-operator) - A Kubernetes operator for network observability
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -469,6 +470,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [classmethod/aurl](https://github.com/classmethod/aurl) - Command line utility to make HTTP request with OAuth2
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -545,11 +547,10 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [BeyondQuality/beyondquality](https://github.com/BeyondQuality/beyondquality) - Beyond Quality Community of Practice
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
-- [doodledood/claude-code-plugins](https://github.com/doodledood/claude-code-plugins) - A curated marketplace of Claude Code plugins for agentic development workflows, featuring tools for architecture, knowledge management, and development automation
 - [go-proverbs/go-proverbs.github.io](https://github.com/go-proverbs/go-proverbs.github.io) - Inspired by @rob_pike talk at Gopherfest SV 2015
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
@@ -688,6 +689,7 @@
 - [bcomnes/npm-run-all2](https://github.com/bcomnes/npm-run-all2) - A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [openai/openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) - Node.js + JavaScript reference client for the Realtime API (beta)
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
@@ -989,7 +991,7 @@
 
 ## Lua 
 
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
@@ -1247,6 +1249,7 @@
 - [openai/frontier-evals](https://github.com/openai/frontier-evals) - OpenAI Frontier Evals
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [SalesforceAIResearch/promptomatix](https://github.com/SalesforceAIResearch/promptomatix) - An Automatic Prompt Optimization Framework for Large Language Models
+- [doodledood/claude-code-plugins](https://github.com/doodledood/claude-code-plugins) - A curated marketplace of Claude Code plugins for agentic development workflows, featuring tools for architecture, knowledge management, and development automation
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
@@ -1255,6 +1258,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) - Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [mikeroyal/Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) - Digital Forensics Guide. Learn all about Digital Forensics, Computer Forensics, Mobile device Forensics, Network Forensics, and Database Forensics.
@@ -1589,7 +1593,7 @@
 - [lambdalisue/cclens](https://github.com/lambdalisue/cclens) - cclens — a lens onto your Claude Code usage
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [shiguredo/postgres-rs](https://github.com/shiguredo/postgres-rs) - 
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - safe execution paths for agents - zero trust, zero setup, zero latency.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [thClaws/thClaws](https://github.com/thClaws/thClaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
 - [manuelschipper/nah](https://github.com/manuelschipper/nah) - a guard that blocks catastrophic agent actions
@@ -1875,12 +1879,12 @@
 
 ## Svelte 
 
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 
 ## Swift 
 
+- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A GUI for Apple Containers, (o)MLX and k8s, written in swift as a replacement for docker desktop
 - [phibrowser/phibrowser-mac](https://github.com/phibrowser/phibrowser-mac) - A modern browser for macOS. Agentic, local-first, native Swift, Chromium powered
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -2074,6 +2078,7 @@
 - [csm-actions/securefix-action](https://github.com/csm-actions/securefix-action) - GitHub Action to fix code securely
 - [GetStream/stream-video-js](https://github.com/GetStream/stream-video-js) - GetStream's React, React Native and JavaScript Video SDKs
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) - An Obsidian.md plugin that syncs highlights from Raindrop.
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
@@ -2141,7 +2146,6 @@
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [Theneo-Inc/theneo-tools](https://github.com/Theneo-Inc/theneo-tools) - Theneo CLI & Theneo SDK
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [livekit-examples/realtime-playground](https://github.com/livekit-examples/realtime-playground) - Play with OpenAI's new Realtime API in your browser
@@ -2157,7 +2161,6 @@
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [PacktPublishing/React-Application-Architecture-for-Production](https://github.com/PacktPublishing/React-Application-Architecture-for-Production) - React Application Architecture for Production, published by Packt
 - [ryoppippi/unplugin-typia](https://github.com/ryoppippi/unplugin-typia) - unplugin for Typia with an extra Bun plugin 🫶
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
@@ -2400,7 +2403,6 @@
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [uhyo/eslint-plugin-import-access](https://github.com/uhyo/eslint-plugin-import-access) - 
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes

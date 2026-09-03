@@ -207,7 +207,6 @@
 
 ## CSS 
 
-- [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [aprxi/letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
 - [joy-of-react/project-wordle](https://github.com/joy-of-react/project-wordle) - 
@@ -664,6 +663,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [thymerapp/thymer-plugin-sdk](https://github.com/thymerapp/thymer-plugin-sdk) - Docs, API and SDK to develop Plugins for Thymer!
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
+- [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -733,7 +733,6 @@
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
-- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Ramda
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [jfromaniello/url-join](https://github.com/jfromaniello/url-join) - Join all arguments together and normalize the resulting url.
 - [tj/ejs](https://github.com/tj/ejs) - Embedded JavaScript templates for node
@@ -936,6 +935,7 @@
 
 ## Jupyter Notebook 
 
+- [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
 - [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 - [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples) - Samples using the Agent2Agent (A2A) Protocol
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1093,7 +1093,6 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [pact-foundation/roadmap](https://github.com/pact-foundation/roadmap) - Developer Relations @ Pact - Your map to the Pact landscape for all-comers (maintainers, contributors, users, newbies)
@@ -1217,6 +1216,8 @@
 
 ## Python 
 
+- [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know) - A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to pow
+- [coji/natural-japanese](https://github.com/coji/natural-japanese) - 仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
@@ -1297,7 +1298,7 @@
 - [langchain-ai/langmem](https://github.com/langchain-ai/langmem) - 
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 - [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) - 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
@@ -1333,7 +1334,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [pypdfium2-team/pypdfium2](https://github.com/pypdfium2-team/pypdfium2) - Python bindings to PDFium, reasonably cross-platform.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [andrei-shabanski/poetry-plugin-sort](https://github.com/andrei-shabanski/poetry-plugin-sort) - Poetry plugin to sort the dependencies
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [mousabaker/poetry-plugin-up](https://github.com/mousabaker/poetry-plugin-up) - Poetry plugin that updates dependencies and bumps their versions in pyproject.toml file
@@ -1439,7 +1440,7 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1655,7 +1656,7 @@
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [trynova/nova](https://github.com/trynova/nova) - JS engine lolz
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency a
-- [wasmerio/wasmer-js](https://github.com/wasmerio/wasmer-js) - Monorepo for Javascript WebAssembly packages by Wasmer
+- [wasmerio/wasmer-sdk](https://github.com/wasmerio/wasmer-sdk) - Wasmer SDK: Run anything, anywhere suing WebAssembly-based sandboxes
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [dmexe/failsafe-rs](https://github.com/dmexe/failsafe-rs) - A circuit breaker implementation for rust
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -1925,6 +1926,8 @@
 
 ## TypeScript 
 
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
@@ -1948,7 +1951,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP, FINOS & Sig
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [shadcn-labs/termcn](https://github.com/shadcn-labs/termcn) - Beautiful terminal UI components, built on Ink and OpenTUI. 100% Free, Zero config, one command setup.
@@ -2085,7 +2088,7 @@
 - [csm-actions/securefix-action](https://github.com/csm-actions/securefix-action) - GitHub Action to fix code securely
 - [GetStream/stream-video-js](https://github.com/GetStream/stream-video-js) - GetStream's React, React Native and JavaScript Video SDKs
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin) - An Obsidian.md plugin that syncs highlights from Raindrop.
 - [mtopping/obsidian-raindrop](https://github.com/mtopping/obsidian-raindrop) - This plugin allows for basic integration with Raindrop.io, a bookmarking service and Obsidian.
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
@@ -2108,6 +2111,7 @@
 - [VSpaceCode/vscode-which-key](https://github.com/VSpaceCode/vscode-which-key) - which-key like menu for Visual Studio Code
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
@@ -2290,6 +2294,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [open-feature/js-sdk](https://github.com/open-feature/js-sdk) - JavaScript SDK for OpenFeature
+- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Ramda
 - [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.
 - [Omnistac/zedux](https://github.com/Omnistac/zedux) - :zap: A Molecular State Engine for React
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.

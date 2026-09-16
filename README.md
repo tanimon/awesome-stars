@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [slackapi/slack-cli](https://github.com/slackapi/slack-cli) - Create, develop, and deploy Slack apps from the command-line ✨
 - [nilbuild/slim](https://github.com/nilbuild/slim) - Give your localhost a local or public URL
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
@@ -1889,7 +1890,7 @@
 ## Swift 
 
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - A native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop
+- [andrew-waters/orchard](https://github.com/andrew-waters/orchard) - The native UI for Apple Containers and (o)MLX sandboxes, written in swift as a replacement for docker desktop
 - [phibrowser/phibrowser-mac](https://github.com/phibrowser/phibrowser-mac) - A modern browser for macOS. Agentic, local-first, native Swift, Chromium powered
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -1929,6 +1930,7 @@
 
 ## TypeScript 
 
+- [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.

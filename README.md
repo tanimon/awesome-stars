@@ -179,7 +179,7 @@
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [microsoft/SEAL](https://github.com/microsoft/SEAL) - Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -397,7 +397,6 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 - [suzuki-shunsuke/ghatm](https://github.com/suzuki-shunsuke/ghatm) - Set timeout-minutes to all GitHub Actions jobs
 - [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
@@ -1234,6 +1233,7 @@
 - [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [nduckmink/arkon](https://github.com/nduckmink/arkon) - Arkon: Enterprise AI Knowledge Hub & MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access policies, and AI skills. Connect Claude and other LLMs via Model Context Protocol (
+- [tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills) - Agent skills for the Agentic SDLC: team lifecycle (team-boot, team-learn, team-init, team-repair), software factory, evals, CDR lifecycle with confidence scoring, and ADR/PDR/ChDR decision records. Wo
 - [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -1806,7 +1806,6 @@
 ## Shell 
 
 - [obra/dotfiles](https://github.com/obra/dotfiles) - 
-- [tikalk/adlc-team-skills](https://github.com/tikalk/adlc-team-skills) - Agent skills for the Agentic SDLC: team lifecycle (team-boot, team-learn, team-init, team-repair), software factory, evals, CDR lifecycle with confidence scoring, and ADR/PDR/ChDR decision records. Wo
 - [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
@@ -2105,6 +2104,7 @@
 - [t3ta/memory-bank-mcp-server](https://github.com/t3ta/memory-bank-mcp-server) - 
 - [ramidecodes/mcp-server-notion](https://github.com/ramidecodes/mcp-server-notion) - A Model Context Protocol server wrapping the official Notion SDK
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
+- [genkit-ai/genkit](https://github.com/genkit-ai/genkit) - Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) - A Model Context Protocol server for connecting Notion to MCP-compatible clients
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers

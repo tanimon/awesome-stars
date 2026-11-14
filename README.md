@@ -165,7 +165,7 @@
 
 ## C++ 
 
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -296,7 +296,7 @@
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [estie-inc/docker-vals](https://github.com/estie-inc/docker-vals) - Compose provider plugin: docker compose up pulls secrets from AWS, Vault, 1Password and 30+ backends via helmfile/vals. No .env files.
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
-- [microsoft/waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
+- [microsoft/waza](https://github.com/microsoft/waza) - CLI for testing and evaluating AI agent workflows, custom agents, and skills with repeatable scenarios, graders, evidence, and CI integration.
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
@@ -1434,7 +1434,7 @@
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [github-community-projects/issue-metrics](https://github.com/github-community-projects/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [xeger/awsume-1password-plugin](https://github.com/xeger/awsume-1password-plugin) - Automates awsume MFA entry via 1Password CLI.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [streamlit/streamlit-example](https://github.com/streamlit/streamlit-example) - Example Streamlit app that you can fork to test out share.streamlit.io
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
